@@ -7,18 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://paulopinto.micro.blog/2023/06/29/want-to-know.html",
+				
+				"content_html": "<p>Want to know what does GPT think of you based on who you follow on twitter? Check <a href=\"https://tgpt.43z.one/\">tgpt.43z.one</a> #AI</p>\n",
+				"content_text": "Want to know what does GPT think of you based on who you follow on twitter? Check [tgpt.43z.one](https://tgpt.43z.one/) #AI \n",
+				"date_published": "2023-06-29T10:40:23+01:00",
+				"url": "https://paulopinto.page/2023/06/29/want-to-know.html"
+			},
+			{
+				"id": "http://paulopinto.micro.blog/2023/06/18/why-irc-is.html",
+				
+				"content_html": "<p>Why IRC is Still Good in $CURRENT_YEAR by Jake Bauer\n<a href=\"https://www.paritybit.ca/blog/why-irc-is-still-good\">https://www.paritybit.ca/blog/why-irc-is-still-good</a> #irc</p>\n",
+				"content_text": "Why IRC is Still Good in $CURRENT_YEAR by Jake Bauer\r\n[https://www.paritybit.ca/blog/why-irc-is-still-good](https://www.paritybit.ca/blog/why-irc-is-still-good) #irc\n",
+				"date_published": "2023-06-18T19:37:32+01:00",
+				"url": "https://paulopinto.page/2023/06/18/why-irc-is.html"
+			},
+			{
+				"id": "http://paulopinto.micro.blog/2023/06/18/algorithms-are-opinions.html",
+				
+				"content_html": "<p>algorithms are opinions turned into code #AI</p>\n",
+				"content_text": "algorithms are opinions turned into code #AI\n",
+				"date_published": "2023-06-18T16:49:28+01:00",
+				"url": "https://paulopinto.page/2023/06/18/algorithms-are-opinions.html"
+			},
+			{
+				"id": "http://paulopinto.micro.blog/2023/06/17/giving-ferdium-a.html",
+				
+				"content_html": "<p>Giving <a href=\"https://ferdium.org/\">Ferdium</a> a try #ferdium</p>\n",
+				"content_text": "Giving [Ferdium](https://ferdium.org/) a try #ferdium\n",
+				"date_published": "2023-06-17T23:00:25+01:00",
+				"url": "https://paulopinto.page/2023/06/17/giving-ferdium-a.html"
+			},
+			{
 				"id": "http://paulopinto.micro.blog/2023/06/17/connect-the-unconnected.html",
 				
 				"content_html": "<p>Connect the unconnected #kiwix <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Connect the unconnected #kiwix <br> <br>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7hv0DPlA8yY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n",
-				"date_published": "2023-06-17T20:09:30+00:00",
+				"date_published": "2023-06-17T21:09:30+01:00",
 				"url": "https://paulopinto.page/2023/06/17/connect-the-unconnected.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/17/coff-for-today.html",
 				
 				"content_html": "<p>Coff33 for today nomad’s #ngogorero #coffee #coffeeadict</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Coff33 for today nomad’s #ngogorero #coffee #coffeeadict\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Coff33 for today nomad’s #ngogorero #coffee #coffeeadict\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-17T12:38:43+00:00",
 				"url": "https://paulopinto.page/2023/06/17/coff-for-today.html"
 			},
