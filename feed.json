@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://paulopinto.micro.blog/2023/07/03/building-a-gemini.html",
+				
+				"content_html": "<p>Building a gemini capsule #gemini</p>\n",
+				"content_text": "Building a gemini capsule #gemini\n",
+				"date_published": "2023-07-03T14:59:06+00:00",
+				"url": "https://paulopinto.page/2023/07/03/building-a-gemini.html"
+			},
+			{
+				"id": "http://paulopinto.micro.blog/2023/07/02/trying-skiff-a.html",
+				
+				"content_html": "<p>Trying #skiff a EE2E mail, notes, drive and calendar app</p>\n",
+				"content_text": "Trying #skiff a EE2E mail, notes, drive and calendar app\n",
+				"date_published": "2023-07-02T21:11:04+00:00",
+				"url": "https://paulopinto.page/2023/07/02/trying-skiff-a.html"
+			},
+			{
+				"id": "http://paulopinto.micro.blog/2023/07/02/starting-my-own.html",
+				
+				"content_html": "<p>Starting my own #mastodon instance today: @w3bk3rn3l@wbknl.xyz</p>\n",
+				"content_text": "Starting my own #mastodon instance today: @w3bk3rn3l@wbknl.xyz\n",
+				"date_published": "2023-07-02T14:33:59+00:00",
+				"url": "https://paulopinto.page/2023/07/02/starting-my-own.html"
+			},
+			{
 				"id": "http://paulopinto.micro.blog/2023/06/29/want-to-know.html",
 				
 				"content_html": "<p>Want to know what does GPT think of you based on who you follow on twitter? Check <a href=\"https://tgpt.43z.one/\">tgpt.43z.one</a> #AI</p>\n",
 				"content_text": "Want to know what does GPT think of you based on who you follow on twitter? Check [tgpt.43z.one](https://tgpt.43z.one/) #AI \n",
-				"date_published": "2023-06-29T10:40:23+01:00",
+				"date_published": "2023-06-29T09:40:23+00:00",
 				"url": "https://paulopinto.page/2023/06/29/want-to-know.html"
 			},
 			{
@@ -19,7 +43,7 @@
 				
 				"content_html": "<p>Why IRC is Still Good in $CURRENT_YEAR by Jake Bauer\n<a href=\"https://www.paritybit.ca/blog/why-irc-is-still-good\">https://www.paritybit.ca/blog/why-irc-is-still-good</a> #irc</p>\n",
 				"content_text": "Why IRC is Still Good in $CURRENT_YEAR by Jake Bauer\r\n[https://www.paritybit.ca/blog/why-irc-is-still-good](https://www.paritybit.ca/blog/why-irc-is-still-good) #irc\n",
-				"date_published": "2023-06-18T19:37:32+01:00",
+				"date_published": "2023-06-18T18:37:32+00:00",
 				"url": "https://paulopinto.page/2023/06/18/why-irc-is.html"
 			},
 			{
@@ -27,7 +51,7 @@
 				
 				"content_html": "<p>algorithms are opinions turned into code #AI</p>\n",
 				"content_text": "algorithms are opinions turned into code #AI\n",
-				"date_published": "2023-06-18T16:49:28+01:00",
+				"date_published": "2023-06-18T15:49:28+00:00",
 				"url": "https://paulopinto.page/2023/06/18/algorithms-are-opinions.html"
 			},
 			{
@@ -35,7 +59,7 @@
 				
 				"content_html": "<p>Giving <a href=\"https://ferdium.org/\">Ferdium</a> a try #ferdium</p>\n",
 				"content_text": "Giving [Ferdium](https://ferdium.org/) a try #ferdium\n",
-				"date_published": "2023-06-17T23:00:25+01:00",
+				"date_published": "2023-06-17T22:00:25+00:00",
 				"url": "https://paulopinto.page/2023/06/17/giving-ferdium-a.html"
 			},
 			{
@@ -43,14 +67,14 @@
 				
 				"content_html": "<p>Connect the unconnected #kiwix <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Connect the unconnected #kiwix <br> <br>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7hv0DPlA8yY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n",
-				"date_published": "2023-06-17T21:09:30+01:00",
+				"date_published": "2023-06-17T20:09:30+00:00",
 				"url": "https://paulopinto.page/2023/06/17/connect-the-unconnected.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/17/coff-for-today.html",
 				
 				"content_html": "<p>Coff33 for today nomad’s #ngogorero #coffee #coffeeadict</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Coff33 for today nomad’s #ngogorero #coffee #coffeeadict\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Coff33 for today nomad’s #ngogorero #coffee #coffeeadict\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-17T12:38:43+00:00",
 				"url": "https://paulopinto.page/2023/06/17/coff-for-today.html"
 			},
@@ -98,7 +122,7 @@
 				"id": "http://paulopinto.micro.blog/2023/06/14/eating-better-each.html",
 				
 				"content_html": "<p>Eating better each time. Working out. Drinking water. Sleep at least 8 hours. Since 13th May, I lost 5kg. #healthyliving</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Eating better each time. Working out. Drinking water. Sleep at least 8 hours. Since 13th May, I lost 5kg. #healthyliving\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/f9d181f556.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Eating better each time. Working out. Drinking water. Sleep at least 8 hours. Since 13th May, I lost 5kg. #healthyliving\n\n<img src=\"uploads/2023/f9d181f556.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-14T12:33:10+00:00",
 				"url": "https://paulopinto.page/2023/06/14/eating-better-each.html"
 			},
@@ -107,7 +131,7 @@
 				
 				"content_html": "<blockquote>\n<p>Technology killed my technological hobby. Solar panel inverters are interfering with my radio reception to the point that I&rsquo;m not able to hear weak signals. What comes to my mind, right now, is that humankind is going to kill humankind.</p>\n</blockquote>\n",
 				"content_text": "> Technology killed my technological hobby. Solar panel inverters are interfering with my radio reception to the point that I'm not able to hear weak signals. What comes to my mind, right now, is that humankind is going to kill humankind.\n",
-				"date_published": "2023-06-14T12:30:17+01:00",
+				"date_published": "2023-06-14T11:30:17+00:00",
 				"url": "https://paulopinto.page/2023/06/14/technology-killed-my.html"
 			},
 			{
@@ -115,7 +139,7 @@
 				
 				"content_html": "<p>Hey! I&rsquo;m using my new Avatar, designed by Andy Carolan (@andycarolan@social.lol)\nGreat job.</p>\n",
 				"content_text": "Hey! I'm using my new Avatar, designed by Andy Carolan (@andycarolan@social.lol)\r\nGreat job.\n",
-				"date_published": "2023-06-13T20:27:13+01:00",
+				"date_published": "2023-06-13T19:27:13+00:00",
 				"url": "https://paulopinto.page/2023/06/13/hey-im-using.html"
 			},
 			{
@@ -123,15 +147,15 @@
 				
 				"content_html": "<p><a href=\"https://linuxiac.com/tails-5-14-ships-with-automatic-migration-to-luks2/\">Tails 5.14 Ships with Automatic Migration to LUKS2</a> #privacy #tails</p>\n<p><a href=\"https://cdn.shortpixel.ai/spai/q_glossy&#43;w_880&#43;h_550&#43;to_auto&#43;ret_img/https://linuxiac.com/wp-content/uploads/2023/06/tails-desktop.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"855c925134ff2f5ce7c839f7a9edc8d3\"\n   \n>\n  <img src =\"https://cdn.shortpixel.ai/spai/q_glossy&#43;w_880&#43;h_550&#43;to_auto&#43;ret_img/https://linuxiac.com/wp-content/uploads/2023/06/tails-desktop.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Tux, the Linux mascot\" \n        \n  />\n</a>\n\n</p>\n",
 				"content_text": "[Tails 5.14 Ships with Automatic Migration to LUKS2](https://linuxiac.com/tails-5-14-ships-with-automatic-migration-to-luks2/) #privacy #tails\r\n\r\n![Tux, the Linux mascot](https://cdn.shortpixel.ai/spai/q_glossy+w_880+h_550+to_auto+ret_img/https://linuxiac.com/wp-content/uploads/2023/06/tails-desktop.jpg)\r\n\r\n",
-				"date_published": "2023-06-13T16:09:52+01:00",
+				"date_published": "2023-06-13T15:09:52+00:00",
 				"url": "https://paulopinto.page/2023/06/13/tails-ships-with.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/13/new-book-to.html",
 				
 				"content_html": "<p>New book to my shelf #privacy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New book to my shelf #privacy\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/c0fce88247.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-13T15:56:03+01:00",
+				"content_text": "New book to my shelf #privacy\n\n<img src=\"uploads/2023/c0fce88247.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-13T14:56:03+00:00",
 				"url": "https://paulopinto.page/2023/06/13/new-book-to.html",
 				"tags": ["Books"]
 			},
@@ -140,7 +164,7 @@
 				
 				"content_html": "<p>To know the differences between #flatpak and #snap, check <a href=\"https://itsfoss.com/flatpak-vs-snap/\">https://itsfoss.com/flatpak-vs-snap/</a></p>\n",
 				"content_text": "To know the differences between #flatpak and #snap, check [https://itsfoss.com/flatpak-vs-snap/](https://itsfoss.com/flatpak-vs-snap/)\n",
-				"date_published": "2023-06-13T15:21:45+01:00",
+				"date_published": "2023-06-13T14:21:45+00:00",
 				"url": "https://paulopinto.page/2023/06/13/to-know-the.html"
 			},
 			{
@@ -148,7 +172,7 @@
 				
 				"content_html": "<p>Listening to a <a href=\"https://linuxlads.com\">Linux Lads</a> episode #podcast #linux</p>\n",
 				"content_text": "Listening to a [Linux Lads](https://linuxlads.com) episode #podcast #linux\n",
-				"date_published": "2023-06-13T13:34:34+01:00",
+				"date_published": "2023-06-13T12:34:34+00:00",
 				"url": "https://paulopinto.page/2023/06/13/listening-to-a.html"
 			},
 			{
@@ -156,7 +180,7 @@
 				
 				"content_html": "<p>My #instagram feed is at <a href=\"https://www.instagram.com/porositaet/\">https://www.instagram.com/porositaet/</a></p>\n",
 				"content_text": "My #instagram feed is at [https://www.instagram.com/porositaet/](https://www.instagram.com/porositaet/)\n",
-				"date_published": "2023-06-12T18:13:56+01:00",
+				"date_published": "2023-06-12T17:13:56+00:00",
 				"url": "https://paulopinto.page/2023/06/12/my-instagram-feed.html"
 			},
 			{
@@ -164,7 +188,7 @@
 				
 				"content_html": "<blockquote>\n<p>They called him Mister Fiddler. One day, in an accident, he lost an arm. He came to be known only as Fiddler.</p>\n</blockquote>\n<p>In <em>Plagiarism</em>, Ne Varietur edition.\nPaulo Pinto</p>\n",
 				"content_text": "\n> They called him Mister Fiddler. One day, in an accident, he lost an arm. He came to be known only as Fiddler.\n\nIn *Plagiarism*, Ne Varietur edition. \nPaulo Pinto\n",
-				"date_published": "2023-06-12T17:39:43+01:00",
+				"date_published": "2023-06-12T16:39:43+00:00",
 				"url": "https://paulopinto.page/2023/06/12/they-called-him.html"
 			},
 			{
@@ -172,7 +196,7 @@
 				
 				"content_html": "<p>If you care for #privacy follow <a href=\"https://twitter.com/CarissaVeliz\">Carissa Véliz</a>&rsquo;s twitter account.</p>\n",
 				"content_text": "If you care for #privacy follow [Carissa Véliz](https://twitter.com/CarissaVeliz)'s twitter account.\n",
-				"date_published": "2023-06-11T16:16:28+01:00",
+				"date_published": "2023-06-11T15:16:28+00:00",
 				"url": "https://paulopinto.page/2023/06/11/if-you-care.html"
 			},
 			{
@@ -180,23 +204,23 @@
 				
 				"content_html": "<p>I think you going to like <a href=\"https://gralhix.com/\">Sofia Santos&rsquo;s webpage</a> #osint</p>\n",
 				"content_text": "I think you going to like [Sofia Santos's webpage](https://gralhix.com/) #osint\n",
-				"date_published": "2023-06-11T15:42:17+01:00",
+				"date_published": "2023-06-11T14:42:17+00:00",
 				"url": "https://paulopinto.page/2023/06/11/i-think-you.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/11/be-little-a.html",
 				
 				"content_html": "<p>&ldquo;Be Little&rdquo;, a Jazz album by Luca Calabrese, Massimo Minardi and Francesco D&rsquo;Auria <!-- raw HTML omitted -->\nCover photo by myself. #jazz</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Be Little\", a Jazz album by Luca Calabrese, Massimo Minardi and Francesco D'Auria <br>\r\nCover photo by myself. #jazz \n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/bae036820d.jpg\" width=\"500\" height=\"500\" alt=\"\">\n",
-				"date_published": "2023-06-11T15:39:06+01:00",
+				"content_text": "\"Be Little\", a Jazz album by Luca Calabrese, Massimo Minardi and Francesco D'Auria <br>\r\nCover photo by myself. #jazz \n\n<img src=\"uploads/2023/bae036820d.jpg\" width=\"500\" height=\"500\" alt=\"\">\n",
+				"date_published": "2023-06-11T14:39:06+00:00",
 				"url": "https://paulopinto.page/2023/06/11/be-little-a.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/11/cof-for-today.html",
 				
 				"content_html": "<p>Cof33 for today #gahahe Burundi</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cof33 for today #gahahe Burundi\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/65250fa1b4.jpg\" width=\"250\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-06-11T13:33:52+01:00",
+				"content_text": "Cof33 for today #gahahe Burundi\n\n<img src=\"uploads/2023/65250fa1b4.jpg\" width=\"250\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-06-11T12:33:52+00:00",
 				"url": "https://paulopinto.page/2023/06/11/cof-for-today.html"
 			},
 			{
@@ -219,24 +243,24 @@
 				"id": "http://paulopinto.micro.blog/2023/06/10/todays-coff-is.html",
 				
 				"content_html": "<p>Today’s coff33 is #karogoto</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today’s coff33 is #karogoto\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/c6b798fbe9.jpg\" width=\"500\" height=\"350\" alt=\"\">\n",
-				"date_published": "2023-06-10T15:16:48+01:00",
+				"content_text": "Today’s coff33 is #karogoto\n\n<img src=\"uploads/2023/c6b798fbe9.jpg\" width=\"500\" height=\"350\" alt=\"\">\n",
+				"date_published": "2023-06-10T14:16:48+00:00",
 				"url": "https://paulopinto.page/2023/06/10/todays-coff-is.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/10/venice-italy.html",
 				
 				"content_html": "<p>Venice, Italy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Venice, Italy\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/f76569f31a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-10T12:02:41+01:00",
+				"content_text": "Venice, Italy\n\n<img src=\"uploads/2023/f76569f31a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-10T11:02:41+00:00",
 				"url": "https://paulopinto.page/2023/06/10/venice-italy.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/09/nmad-coffee-labshop.html",
 				
 				"content_html": "<p><a href=\"https://nomadcoffee.es/shop/\">Nømad Coffee Lab&amp;Shop</a> great #ngororero from Rwanda</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Nømad Coffee Lab&Shop](https://nomadcoffee.es/shop/) great #ngororero from Rwanda\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/005f028760.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-09T18:14:41+01:00",
+				"content_text": "[Nømad Coffee Lab&Shop](https://nomadcoffee.es/shop/) great #ngororero from Rwanda\n\n<img src=\"uploads/2023/005f028760.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-09T17:14:41+00:00",
 				"url": "https://paulopinto.page/2023/06/09/nmad-coffee-labshop.html"
 			},
 			{
@@ -252,7 +276,7 @@
 				
 				"content_html": "<p>There I go &ndash;&gt; @w3bk3rn3l@kbin.social #kbin</p>\n",
 				"content_text": "There I go --> @w3bk3rn3l@kbin.social #kbin\n",
-				"date_published": "2023-06-09T10:19:48+01:00",
+				"date_published": "2023-06-09T09:19:48+00:00",
 				"url": "https://paulopinto.page/2023/06/09/there-i-go.html"
 			},
 			{
@@ -260,7 +284,7 @@
 				
 				"content_html": "<p><a href=\"https://nakamotoinstitute.org/cypherpunk-manifesto/\">A Cypherpunk&rsquo;s Manifesto</a>. #privacy #cypherpunk\nEric Hughes. \nMarch 9, 1993.</p>\n",
 				"content_text": "[A Cypherpunk's Manifesto](https://nakamotoinstitute.org/cypherpunk-manifesto/). #privacy #cypherpunk\r\nEric Hughes. \r\nMarch 9, 1993. \r\n\r\n",
-				"date_published": "2023-06-08T21:24:42+01:00",
+				"date_published": "2023-06-08T20:24:42+00:00",
 				"url": "https://paulopinto.page/2023/06/08/a-cypherpunks-manifesto.html"
 			},
 			{
@@ -268,7 +292,7 @@
 				
 				"content_html": "<p>Reading &ndash;&gt; Numeric Citizen&rsquo;s &ldquo;My Life After Twitter&rdquo; <a href=\"https://numericcitizen.me/my-life-after-twitter-reflections-on-a-more-peaceful-digital-landscape/\">blog entry</a></p>\n",
 				"content_text": "Reading --> Numeric Citizen's \"My Life After Twitter\" [blog entry](https://numericcitizen.me/my-life-after-twitter-reflections-on-a-more-peaceful-digital-landscape/)\n",
-				"date_published": "2023-06-08T20:37:06+01:00",
+				"date_published": "2023-06-08T19:37:06+00:00",
 				"url": "https://paulopinto.page/2023/06/08/reading-numeric-citizens.html"
 			},
 			{
@@ -276,15 +300,15 @@
 				
 				"content_html": "<p>You can check how much is your webpage indiewebified at <a href=\"https://indiewebify.me/\">indiewebify.me</a> #indieweb</p>\n",
 				"content_text": "You can check how much is your webpage indiewebified at [indiewebify.me](https://indiewebify.me/) #indieweb\n",
-				"date_published": "2023-06-08T19:13:26+01:00",
+				"date_published": "2023-06-08T18:13:26+00:00",
 				"url": "https://paulopinto.page/2023/06/08/you-can-check.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/06/08/riga-latvia.html",
 				
 				"content_html": "<p>Public Library <!-- raw HTML omitted -->\nRiga, Latvia</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Public Library <br>\nRiga, Latvia\n\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/bb38eba11d.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-06-08T18:14:10+01:00",
+				"content_text": "Public Library <br>\nRiga, Latvia\n\n\n<img src=\"uploads/2023/bb38eba11d.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-06-08T17:14:10+00:00",
 				"url": "https://paulopinto.page/2023/06/08/riga-latvia.html"
 			},
 			{
@@ -299,7 +323,7 @@
 				"id": "http://paulopinto.micro.blog/2023/06/08/coff-tim-las.html",
 				
 				"content_html": "<p>Coff33 tim3 Las Delícias, Nicaragua #coffee</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Coff33 tim3 Las Delícias, Nicaragua #coffee\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2023/6971b8c1a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Coff33 tim3 Las Delícias, Nicaragua #coffee\n\n<img src=\"uploads/2023/6971b8c1a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-08T10:10:12+00:00",
 				"url": "https://paulopinto.page/2023/06/08/coff-tim-las.html"
 			},
@@ -310,14 +334,6 @@
 				"content_text": "Next goal: self-host Bitwarden #bitwarden\n",
 				"date_published": "2023-06-07T16:00:08+00:00",
 				"url": "https://paulopinto.page/2023/06/07/next-goal-selfhost.html"
-			},
-			{
-				"id": "http://paulopinto.micro.blog/2023/06/07/crosspost-test.html",
-				
-				"content_html": "<p>crosspost test</p>\n",
-				"content_text": "crosspost test\n",
-				"date_published": "2023-06-07T16:26:14+01:00",
-				"url": "https://paulopinto.page/2023/06/07/crosspost-test.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2023/01/14/i-installed-grapheneos.html",
@@ -348,7 +364,7 @@
 				
 				"content_html": "<p>My Radio Outpost is at <a href=\"https://cosmic.voyage/ships/W3bK3rN3l%20Radio\">cosmic.voyage/ships/W3b&hellip;</a>\nIt&rsquo;s mainly in portuguese, but I think a good translator will help.</p>\n",
 				"content_text": "My Radio Outpost is at [cosmic.voyage/ships/W3b...](https://cosmic.voyage/ships/W3bK3rN3l%20Radio)\r\nIt's mainly in portuguese, but I think a good translator will help.\n",
-				"date_published": "2022-12-19T21:05:33+01:00",
+				"date_published": "2022-12-19T20:05:33+00:00",
 				"url": "https://paulopinto.page/2022/12/19/my-radio-outpost.html"
 			},
 			{
@@ -364,7 +380,7 @@
 				
 				"content_html": "<p>I think you&rsquo;d like to know that I now have an Obsidian page for my Digital Garden at <a href=\"https://paulopinto.place\">paulopinto.place</a> (auf Portugiesisch) #obsidian #digitalgarden</p>\n",
 				"content_text": "I think you'd like to know that I now have an Obsidian page for my Digital Garden at [paulopinto.place](https://paulopinto.place) (auf Portugiesisch) #obsidian #digitalgarden\n",
-				"date_published": "2022-12-17T21:30:50+01:00",
+				"date_published": "2022-12-17T20:30:50+00:00",
 				"url": "https://paulopinto.page/2022/12/17/i-think-youd.html"
 			},
 			{
@@ -372,7 +388,7 @@
 				
 				"content_html": "<p>My reflections about annotation: <a href=\"https://doi.org/10.21428/6ffd8432.2751b969\">doi.org/10.21428/&hellip;</a></p>\n",
 				"content_text": "My reflections about annotation: [doi.org/10.21428/...](https://doi.org/10.21428/6ffd8432.2751b969)\n",
-				"date_published": "2022-12-16T11:20:02+01:00",
+				"date_published": "2022-12-16T10:20:02+00:00",
 				"url": "https://paulopinto.page/2022/12/16/my-reflections-about.html"
 			},
 			{
@@ -380,7 +396,7 @@
 				
 				"content_html": "<p>Just signed the web0 manifesto at <a href=\"https://web0.small-web.org/\">web0.small-web.org</a></p>\n",
 				"content_text": "Just signed the web0 manifesto at [web0.small-web.org](https://web0.small-web.org/)\n",
-				"date_published": "2022-12-13T18:56:04+01:00",
+				"date_published": "2022-12-13T17:56:04+00:00",
 				"url": "https://paulopinto.page/2022/12/13/just-signed-the.html"
 			},
 			{
@@ -388,7 +404,7 @@
 				
 				"content_html": "<p>I am using keyoxide.org to verify my identities\n<a href=\"https://keyoxide.org/hkp/paulopinto%40omg.lol\">keyoxide.org/hkp/paulo&hellip;</a></p>\n",
 				"content_text": "I am using keyoxide.org to verify my identities\r\n[keyoxide.org/hkp/paulo...](https://keyoxide.org/hkp/paulopinto%40omg.lol)\n",
-				"date_published": "2022-12-13T17:43:06+01:00",
+				"date_published": "2022-12-13T16:43:06+00:00",
 				"url": "https://paulopinto.page/2022/12/13/i-am-using.html"
 			},
 			{
@@ -396,7 +412,7 @@
 				
 				"content_html": "<p>You can see what books I am reading or read, and those that I wish to read, at:\n<a href=\"https://literal.club/paulopinto\">literal.club/paulopint&hellip;</a></p>\n",
 				"content_text": "You can see what books I am reading or read, and those that I wish to read, at:\r\n[literal.club/paulopint...](https://literal.club/paulopinto)\n",
-				"date_published": "2022-12-13T17:19:19+01:00",
+				"date_published": "2022-12-13T16:19:19+00:00",
 				"url": "https://paulopinto.page/2022/12/13/you-can-see.html",
 				"tags": ["Books"]
 			},
@@ -405,7 +421,7 @@
 				
 				"content_html": "<p>omg.lol is doing a great job with new features and attention to some unusual details, like tildeverse. My profile webpage is parked at <a href=\"https://paulopinto.omg.lol/\">paulopinto.omg.lol</a> #omg</p>\n",
 				"content_text": "omg.lol is doing a great job with new features and attention to some unusual details, like tildeverse. My profile webpage is parked at [paulopinto.omg.lol](https://paulopinto.omg.lol/) #omg \n",
-				"date_published": "2022-12-12T10:20:21+01:00",
+				"date_published": "2022-12-12T09:20:21+00:00",
 				"url": "https://paulopinto.page/2022/12/12/omglol-is-doing.html"
 			},
 			{
@@ -413,7 +429,7 @@
 				
 				"content_html": "<p>&ldquo;Facebook’s scientists famously claimed, in a peer-reviewed journal, that they could make people sadder just by tweaking the algorithm that generates their content feeds—and that those affected did not know what was going on&rdquo;</p>\n<p>Jaron Lanier\n<a href=\"https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/\">www.theatlantic.com/technolog&hellip;</a></p>\n",
 				"content_text": "\"Facebook’s scientists famously claimed, in a peer-reviewed journal, that they could make people sadder just by tweaking the algorithm that generates their content feeds—and that those affected did not know what was going on\"\r\n\r\nJaron Lanier\r\n[www.theatlantic.com/technolog...](https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/)\r\n",
-				"date_published": "2022-05-26T18:38:23+01:00",
+				"date_published": "2022-05-26T17:38:23+00:00",
 				"url": "https://paulopinto.page/2022/05/26/facebooks-scientists-famously.html"
 			},
 			{
@@ -421,7 +437,7 @@
 				
 				"content_html": "<p>Updated to Fedora 36. Still no #protonvpn official repository client.\n#linux #fedora #protonvpn</p>\n",
 				"content_text": "Updated to Fedora 36. Still no #protonvpn official repository client.\n#linux #fedora #protonvpn\n",
-				"date_published": "2022-05-13T20:20:14+01:00",
+				"date_published": "2022-05-13T19:20:14+00:00",
 				"url": "https://paulopinto.page/2022/05/13/updated-to-fedora.html"
 			},
 			{
@@ -429,7 +445,7 @@
 				
 				"content_html": "<p>Have you ever fall in love with several distros at the same time?\n#linux</p>\n",
 				"content_text": "Have you ever fall in love with several distros at the same time?\n#linux \n",
-				"date_published": "2022-04-30T13:10:14+01:00",
+				"date_published": "2022-04-30T12:10:14+00:00",
 				"url": "https://paulopinto.page/2022/04/30/have-you-ever.html"
 			},
 			{
@@ -437,7 +453,7 @@
 				
 				"content_html": "<p>OK. Testing my postflow: micro.blog (paulopinto.page; paulopinto.org) &ndash;&gt; Masstodon &ndash;&gt; Twitter\n#syndication</p>\n",
 				"content_text": "OK. Testing my postflow: micro.blog (paulopinto.page; paulopinto.org) --> Masstodon --> Twitter\r\n#syndication\n",
-				"date_published": "2022-04-29T18:41:09+01:00",
+				"date_published": "2022-04-29T17:41:09+00:00",
 				"url": "https://paulopinto.page/2022/04/29/ok-testing-my.html"
 			},
 			{
@@ -445,7 +461,7 @@
 				
 				"content_html": "<p>Yessss! I am now a proud patron of Fosstodon on @patreon, and you should be too: #NewPatron <a href=\"https://patreon.com/fosstodon?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=tyshare2\">https://patreon.com/fosstodon?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=tyshare2</a></p>\n",
 				"content_text": "Yessss! I am now a proud patron of Fosstodon on @patreon, and you should be too: #NewPatron https://patreon.com/fosstodon?utm_medium=social&utm_source=twitter&utm_campaign=tyshare2 \n",
-				"date_published": "2022-04-29T17:19:06+01:00",
+				"date_published": "2022-04-29T16:19:06+00:00",
 				"url": "https://paulopinto.page/2022/04/29/yessss-i-am.html"
 			},
 			{
@@ -453,7 +469,7 @@
 				
 				"content_html": "<p>I just can&rsquo;t believe! Better Call Saul is back :)\n#bettercallsaul</p>\n",
 				"content_text": "I just can't believe! Better Call Saul is back :)\r\n#bettercallsaul\r\n",
-				"date_published": "2022-04-29T17:06:23+01:00",
+				"date_published": "2022-04-29T16:06:23+00:00",
 				"url": "https://paulopinto.page/2022/04/29/i-just-cant.html"
 			},
 			{
@@ -461,7 +477,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781610395700\">The Age of Surveillance Capitalism</a> by Shoshana Zuboff 📚</p>\n",
 				"content_text": "Currently reading: [The Age of Surveillance Capitalism](https://micro.blog/books/9781610395700) by Shoshana Zuboff 📚\n",
-				"date_published": "2022-04-29T16:19:41+01:00",
+				"date_published": "2022-04-29T15:19:41+00:00",
 				"url": "https://paulopinto.page/2022/04/29/currently-reading-the.html"
 			},
 			{
@@ -469,7 +485,7 @@
 				
 				"content_html": "<p>Public annotation induces the collective production of knowledge and ways of disseminating and searching for information and allows for effective communication to become an ongoing process.</p>\n<p><a href=\"https://commonplace.knowledgefutures.org/pub/8rxyd1le/release/1\">commonplace.knowledgefutures.org/pub/8rxyd&hellip;</a></p>\n",
 				"content_text": "Public annotation induces the collective production of knowledge and ways of disseminating and searching for information and allows for effective communication to become an ongoing process.\r\n\r\n[commonplace.knowledgefutures.org/pub/8rxyd...](https://commonplace.knowledgefutures.org/pub/8rxyd1le/release/1)\n",
-				"date_published": "2022-04-29T14:14:57+01:00",
+				"date_published": "2022-04-29T13:14:57+00:00",
 				"url": "https://paulopinto.page/2022/04/29/public-annotation-induces.html"
 			},
 			{
@@ -477,7 +493,7 @@
 				
 				"content_html": "<p>I&rsquo;m a proud crowdfunder of &ldquo;Disappear - Cover your online tracks&rdquo;\n<a href=\"https://www.arte.tv/en/videos/100750-000-F/disappear/\">www.arte.tv/en/videos&hellip;</a></p>\n",
 				"content_text": "I'm a proud crowdfunder of \"Disappear - Cover your online tracks\"\r\n[www.arte.tv/en/videos...](https://www.arte.tv/en/videos/100750-000-F/disappear/)\n",
-				"date_published": "2022-04-29T12:14:09+01:00",
+				"date_published": "2022-04-29T11:14:09+00:00",
 				"url": "https://paulopinto.page/2022/04/29/im-a-proud.html"
 			},
 			{
@@ -485,7 +501,7 @@
 				
 				"content_html": "<p>Only a specialist will be able to understand that your exaggerations are, in reality, true.</p>\n",
 				"content_text": "Only a specialist will be able to understand that your exaggerations are, in reality, true.\n",
-				"date_published": "2021-04-04T16:34:41+01:00",
+				"date_published": "2021-04-04T15:34:41+00:00",
 				"url": "https://paulopinto.page/2021/04/04/only-a-specialist.html"
 			},
 			{
@@ -493,7 +509,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/v3rOrb0JsRw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"date_published": "2021-04-03T20:40:05+01:00",
+				"date_published": "2021-04-03T19:40:05+00:00",
 				"url": "https://paulopinto.page/2021/04/03/204005.html"
 			},
 			{
@@ -501,7 +517,7 @@
 				
 				"content_html": "<p>Don&rsquo;t buy a Mac mini M1. I have several unexpected reboots. Apple tells me it&rsquo;s 3rd party software. What a silly answer. I use mac since 2006 and never had such problems. #apple #macos #macminim1</p>\n<p>UPDATE: OS update solved this bug</p>\n",
 				"content_text": "Don't buy a Mac mini M1. I have several unexpected reboots. Apple tells me it's 3rd party software. What a silly answer. I use mac since 2006 and never had such problems. #apple #macos #macminim1\n\nUPDATE: OS update solved this bug\n",
-				"date_published": "2021-04-03T11:59:00+01:00",
+				"date_published": "2021-04-03T10:59:00+00:00",
 				"url": "https://paulopinto.page/2021/04/03/dont-buy-a.html"
 			},
 			{
@@ -509,7 +525,7 @@
 				
 				"content_html": "<p>Following <a href=\"https://boffosocko.com/2020/05/30/hypothes-is-annotations-to-wordpress-via-rss/\">Chris Aldrich&rsquo;s post</a> to post my hypothes.is annotations to my Wordpress blog.</p>\n",
 				"content_text": "Following [Chris Aldrich's post](https://boffosocko.com/2020/05/30/hypothes-is-annotations-to-wordpress-via-rss/) to post my hypothes.is annotations to my Wordpress blog.\n",
-				"date_published": "2021-03-29T23:21:29+01:00",
+				"date_published": "2021-03-29T22:21:29+00:00",
 				"url": "https://paulopinto.page/2021/03/29/following-chris-aldrichs.html"
 			},
 			{
@@ -517,7 +533,7 @@
 				
 				"content_html": "<p><a href=\"https://interconnected.org/more/2021/03/social-attention/\">So interesting</a></p>\n",
 				"content_text": "[So interesting](https://interconnected.org/more/2021/03/social-attention/)\n",
-				"date_published": "2021-03-29T21:29:44+01:00",
+				"date_published": "2021-03-29T20:29:44+00:00",
 				"url": "https://paulopinto.page/2021/03/29/so-interesting.html"
 			},
 			{
@@ -525,7 +541,7 @@
 				
 				"content_html": "<p>Although my annotations using hypothes.is are mainly in Portuguese, I&rsquo;m glad to share them with you. It may spark conversation. Hopefully. <a href=\"https://hypothes.is/stream.atom?user=ppinto\">https://hypothes.is/stream.atom?user=ppinto</a></p>\n",
 				"content_text": "Although my annotations using hypothes.is are mainly in Portuguese, I'm glad to share them with you. It may spark conversation. Hopefully. [https://hypothes.is/stream.atom?user=ppinto](https://hypothes.is/stream.atom?user=ppinto)\n",
-				"date_published": "2021-03-29T19:23:15+01:00",
+				"date_published": "2021-03-29T18:23:15+00:00",
 				"url": "https://paulopinto.page/2021/03/29/although-my-annotations.html"
 			},
 			{
@@ -533,7 +549,7 @@
 				
 				"content_html": "<p>Cities can be places of invitation, innovation, creativity, and tolerance.</p>\n<blockquote>\n<p>The city as we imagine it, the soft city of illusion, myth, aspiration, nightmare, is as real, maybe more real, than the hard city one can locate on maps in statistics, in monographs on urban sociology and demography and architecture.  (Jonathan Raban, Soft City)</p>\n</blockquote>\n",
 				"content_text": "Cities can be places of invitation, innovation, creativity, and tolerance.\r\n\r\n> The city as we imagine it, the soft city of illusion, myth, aspiration, nightmare, is as real, maybe more real, than the hard city one can locate on maps in statistics, in monographs on urban sociology and demography and architecture.  (Jonathan Raban, Soft City)\n",
-				"date_published": "2021-03-28T21:55:25+01:00",
+				"date_published": "2021-03-28T20:55:25+00:00",
 				"url": "https://paulopinto.page/2021/03/28/cities-can-be.html"
 			},
 			{
@@ -541,7 +557,7 @@
 				
 				"content_html": "<p>I&rsquo;m using <a href=\"https://hypothes.is\">https://hypothes.is</a> to annotate my online readings. We can make them public and begin a discussion thread, which is great #hypothesis</p>\n",
 				"content_text": "I'm using [https://hypothes.is](https://hypothes.is) to annotate my online readings. We can make them public and begin a discussion thread, which is great #hypothesis\n",
-				"date_published": "2021-03-28T21:11:31+01:00",
+				"date_published": "2021-03-28T20:11:31+00:00",
 				"url": "https://paulopinto.page/2021/03/28/im-using-httpshypothesis.html"
 			},
 			{
@@ -565,7 +581,7 @@
 				
 				"content_html": "<p>With #obsidian I began to connect ideas instead of collecting them. I just realized how unuseful is to have a bunch of PDF (or other) files in Evernote or Joplin just for the sake of adding them to my repository.</p>\n",
 				"content_text": "With #obsidian I began to connect ideas instead of collecting them. I just realized how unuseful is to have a bunch of PDF (or other) files in Evernote or Joplin just for the sake of adding them to my repository.\n",
-				"date_published": "2021-03-21T22:22:16+01:00",
+				"date_published": "2021-03-21T21:22:16+00:00",
 				"url": "https://paulopinto.page/2021/03/21/with-obsidian-i.html"
 			},
 			{
@@ -573,7 +589,7 @@
 				
 				"content_html": "<p>Thanks Scott for your post. Glad you like my photo. I appreciate it.<br>\n<a href=\"https://scojjac.com/2021/03/1470/\">https://scojjac.com/2021/03/1470/</a></p>\n",
 				"content_text": "Thanks Scott for your post. Glad you like my photo. I appreciate it.  \n[https://scojjac.com/2021/03/1470/](https://scojjac.com/2021/03/1470/)\n",
-				"date_published": "2021-03-21T21:57:11+01:00",
+				"date_published": "2021-03-21T20:57:11+00:00",
 				"url": "https://paulopinto.page/2021/03/21/thanks-scott-for.html"
 			},
 			{
@@ -581,7 +597,7 @@
 				
 				"content_html": "<p>🎵 &ldquo;Sweet Little Mystery&rdquo; by John Martyn</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🎵 \"Sweet Little Mystery\" by John Martyn\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-eiDbHLMCUE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"date_published": "2021-03-21T16:28:34+01:00",
+				"date_published": "2021-03-21T15:28:34+00:00",
 				"url": "https://paulopinto.page/2021/03/21/sweet-little-mystery.html"
 			},
 			{
@@ -589,7 +605,7 @@
 				
 				"content_html": "<p>This is a great way to develop your own ideas from articles you read online #obsidian</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is a great way to develop your own ideas from articles you read online #obsidian\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KWdEatdD2bo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"date_published": "2021-03-21T15:28:44+01:00",
+				"date_published": "2021-03-21T14:28:44+00:00",
 				"url": "https://paulopinto.page/2021/03/21/this-is-a.html"
 			},
 			{
@@ -597,7 +613,7 @@
 				
 				"content_html": "<p>I&rsquo;m obsessed with Obsidian #obsidian\n<a href=\"https://obsidian.md/\">https://obsidian.md/</a></p>\n",
 				"content_text": "I'm obsessed with Obsidian #obsidian\n[https://obsidian.md/](https://obsidian.md/)\n",
-				"date_published": "2021-03-19T21:40:14+01:00",
+				"date_published": "2021-03-19T20:40:14+00:00",
 				"url": "https://paulopinto.page/2021/03/19/im-obsessed-with.html"
 			},
 			{
@@ -605,7 +621,7 @@
 				
 				"content_html": "<p><a href=\"https://www.theatlantic.com/magazine/archive/2021/04/the-internet-doesnt-have-to-be-awful/618079/\">Let&rsquo;s fix the Internet</a></p>\n",
 				"content_text": "[Let's fix the Internet](https://www.theatlantic.com/magazine/archive/2021/04/the-internet-doesnt-have-to-be-awful/618079/)\n",
-				"date_published": "2021-03-19T15:02:11+01:00",
+				"date_published": "2021-03-19T14:02:11+00:00",
 				"url": "https://paulopinto.page/2021/03/19/lets-fix-the.html"
 			},
 			{
@@ -613,7 +629,7 @@
 				
 				"content_html": "<p>Changed my theme to allow webmentions display</p>\n",
 				"content_text": "Changed my theme to allow webmentions display \n",
-				"date_published": "2021-03-18T21:47:16+01:00",
+				"date_published": "2021-03-18T20:47:16+00:00",
 				"url": "https://paulopinto.page/2021/03/18/changed-my-theme.html"
 			},
 			{
@@ -621,7 +637,7 @@
 				
 				"content_html": "<p>I find @SystmCast (a podcast by <a href=\"https://micro.blog/ttscoff\">@ttscoff</a>) one of the most interesting audio products out there</p>\n",
 				"content_text": "I find @SystmCast (a podcast by [@ttscoff](https://micro.blog/ttscoff)) one of the most interesting audio products out there\n",
-				"date_published": "2021-03-18T21:37:20+01:00",
+				"date_published": "2021-03-18T20:37:20+00:00",
 				"url": "https://paulopinto.page/2021/03/18/i-find-systmcast.html"
 			},
 			{
@@ -629,7 +645,7 @@
 				
 				"content_html": "<p>A good oportunity to interact live with @aral @laurakalbag and @DHH\n<a href=\"https://twitter.com/aral/status/1372454611425054720?s=20\">twitter.com/aral/stat&hellip;</a></p>\n",
 				"content_text": "A good oportunity to interact live with @aral @laurakalbag and @DHH\n[twitter.com/aral/stat...](https://twitter.com/aral/status/1372454611425054720?s=20)\n",
-				"date_published": "2021-03-18T10:22:05+01:00",
+				"date_published": "2021-03-18T09:22:05+00:00",
 				"url": "https://paulopinto.page/2021/03/18/a-good-oportunity.html"
 			},
 			{
@@ -637,7 +653,7 @@
 				
 				"content_html": "<p>dt is algo talking abt gemini\n<a href=\"https://open.lbry.com/@DistroTube:2/gemini-is-what-the-web-should-have-been:9\">open.lbry.com/@DistroTu&hellip;</a></p>\n",
 				"content_text": "dt is algo talking abt gemini\n[open.lbry.com/@DistroTu...](https://open.lbry.com/@DistroTube:2/gemini-is-what-the-web-should-have-been:9)\n",
-				"date_published": "2021-02-05T00:14:00+01:00",
+				"date_published": "2021-02-04T23:14:00+00:00",
 				"url": "https://paulopinto.page/2021/02/04/dt-is-algo.html"
 			},
 			{
@@ -645,7 +661,7 @@
 				
 				"content_html": "<p>Using #deedum as my iOS gemini browser</p>\n",
 				"content_text": "Using #deedum as my iOS gemini browser\n",
-				"date_published": "2021-02-05T00:05:51+01:00",
+				"date_published": "2021-02-04T23:05:51+00:00",
 				"url": "https://paulopinto.page/2021/02/04/using-deedum-as.html"
 			},
 			{
@@ -653,7 +669,7 @@
 				
 				"content_html": "<p>Why don&rsquo;t you make a gemini website? #geminiprotocol <a href=\"https://open.lbry.com/@hexdsl:7/how-to-make-a-gemini-capsule-the:4\">open.lbry.com/@hexdsl:7&hellip;</a></p>\n",
 				"content_text": "Why don't you make a gemini website? #geminiprotocol [open.lbry.com/@hexdsl:7...](https://open.lbry.com/@hexdsl:7/how-to-make-a-gemini-capsule-the:4) \n",
-				"date_published": "2021-02-04T00:29:56+01:00",
+				"date_published": "2021-02-03T23:29:56+00:00",
 				"url": "https://paulopinto.page/2021/02/03/why-dont-you.html"
 			},
 			{
@@ -661,7 +677,7 @@
 				
 				"content_html": "<p><a href=\"https://kevq.uk/install-nextcloud-on-synology/\">How To Install Nextcloud On A Synology NAS - Kev Quirk</a></p>\n",
 				"content_text": " [How To Install Nextcloud On A Synology NAS - Kev Quirk](https://kevq.uk/install-nextcloud-on-synology/)\n",
-				"date_published": "2021-02-01T20:45:43+01:00",
+				"date_published": "2021-02-01T19:45:43+00:00",
 				"url": "https://paulopinto.page/2021/02/01/how-to-install.html"
 			},
 			{
@@ -669,7 +685,7 @@
 				
 				"content_html": "<p>Become an FSF associate member\n<a href=\"https://my.fsf.org/join?referrer=5409743\">my.fsf.org/join</a></p>\n",
 				"content_text": "Become an FSF associate member\r\n[my.fsf.org/join](https://my.fsf.org/join?referrer=5409743)\n",
-				"date_published": "2021-01-27T23:08:53+01:00",
+				"date_published": "2021-01-27T22:08:53+00:00",
 				"url": "https://paulopinto.page/2021/01/27/become-an-fsf.html"
 			},
 			{
@@ -677,7 +693,7 @@
 				
 				"content_html": "<p>Want to use Free and Open Source Software alternatives? Take a look at <a href=\"https://switching.software/\">switching.software</a> #privacy</p>\n",
 				"content_text": "Want to use Free and Open Source Software alternatives? Take a look at [switching.software](https://switching.software/) #privacy \n",
-				"date_published": "2021-01-17T16:55:41+01:00",
+				"date_published": "2021-01-17T15:55:41+00:00",
 				"url": "https://paulopinto.page/2021/01/17/want-to-use.html"
 			},
 			{
@@ -685,7 +701,7 @@
 				
 				"content_html": "<p>Grieving two living children for 22 years</p>\n",
 				"content_text": "Grieving two living children for 22 years\n",
-				"date_published": "2020-11-03T18:39:33+01:00",
+				"date_published": "2020-11-03T17:39:33+00:00",
 				"url": "https://paulopinto.page/2020/11/03/grieving-two-living.html"
 			},
 			{
@@ -693,7 +709,7 @@
 				
 				"content_html": "<p>Want to use Free and Open Source Software alternatives? Take a look at <a href=\"https://switching.software/\">switching.software</a></p>\n",
 				"content_text": "Want to use Free and Open Source Software alternatives? Take a look at [switching.software](https://switching.software/)  \n",
-				"date_published": "2020-09-27T12:47:34+01:00",
+				"date_published": "2020-09-27T11:47:34+00:00",
 				"url": "https://paulopinto.page/2020/09/27/want-to-use.html"
 			},
 			{
@@ -701,7 +717,7 @@
 				
 				"content_html": "<p>9/27 - Turning 55 today. Celebrating palindromes since I was 11 yo.</p>\n",
 				"content_text": "9/27 - Turning 55 today. Celebrating palindromes since I was 11 yo.\n",
-				"date_published": "2020-09-27T09:44:41+01:00",
+				"date_published": "2020-09-27T08:44:41+00:00",
 				"url": "https://paulopinto.page/2020/09/27/turning-today-celebrating.html"
 			},
 			{
@@ -709,7 +725,7 @@
 				
 				"content_html": "<p>Take a look at <a href=\"https://europa.eu/citizens-initiative/_en\">europa.eu/citizens-&hellip;</a>\n#petition</p>\n",
 				"content_text": "Take a look at [europa.eu/citizens-...](https://europa.eu/citizens-initiative/_en)\n#petition\n",
-				"date_published": "2020-09-25T16:18:34+01:00",
+				"date_published": "2020-09-25T15:18:34+00:00",
 				"url": "https://paulopinto.page/2020/09/25/take-a-look.html"
 			},
 			{
@@ -717,7 +733,7 @@
 				
 				"content_html": "<p>It has been a while since my last micro.blog post. I&rsquo;m back #microblog</p>\n",
 				"content_text": "It has been a while since my last micro.blog post. I'm back #microblog\n",
-				"date_published": "2020-09-24T18:51:05+01:00",
+				"date_published": "2020-09-24T17:51:05+00:00",
 				"url": "https://paulopinto.page/2020/09/24/it-has-been.html"
 			},
 			{
@@ -725,7 +741,7 @@
 				
 				"content_html": "<p>I&rsquo;m feeling very tired! Since March, with pandemic, I&rsquo;ve been involved in a extremely demanding task that I&rsquo;m trying to accomplish the best I can. Right now, I need Holidays!</p>\n",
 				"content_text": "I'm feeling very tired! Since March, with pandemic, I've been involved in a extremely demanding task that I'm trying to accomplish the best I can. Right now, I need Holidays!\n",
-				"date_published": "2020-08-03T19:38:00+01:00",
+				"date_published": "2020-08-03T18:38:00+00:00",
 				"url": "https://paulopinto.page/2020/08/03/im-feeling-very.html"
 			},
 			{
@@ -733,7 +749,7 @@
 				
 				"content_html": "<p>I saw it! Neowise. Naked eye = nill. Binoculars 10x50 = beautiful diffuse and milky body. Made my day.</p>\n",
 				"content_text": "I saw it! Neowise. Naked eye = nill. Binoculars 10x50 = beautiful diffuse and milky body. Made my day.\n",
-				"date_published": "2020-07-22T23:39:36+01:00",
+				"date_published": "2020-07-22T22:39:36+00:00",
 				"url": "https://paulopinto.page/2020/07/22/i-saw-it.html"
 			},
 			{
@@ -741,7 +757,7 @@
 				
 				"content_html": "<p>If you plan to install Manjaro on your old Macbook Pro here&rsquo;s a great tutorial &ndash;&gt; <a href=\"https://medium.com/@pswoo/linux-newbie-running-manjaro-on-macbookpro-5db4672351c9\">medium.com/@pswoo/li&hellip;</a> \n#manjaro #linux #macbookpro</p>\n",
 				"content_text": "If you plan to install Manjaro on your old Macbook Pro here's a great tutorial --> [medium.com/@pswoo/li...](https://medium.com/@pswoo/linux-newbie-running-manjaro-on-macbookpro-5db4672351c9) \r\n#manjaro #linux #macbookpro\n",
-				"date_published": "2020-07-19T21:42:51+01:00",
+				"date_published": "2020-07-19T20:42:51+00:00",
 				"url": "https://paulopinto.page/2020/07/19/if-you-plan.html"
 			},
 			{
@@ -749,7 +765,7 @@
 				
 				"content_html": "<p>I just installed Pop! OS 20.04 on my ThinkPad and I&rsquo;m giving it a try. Any Pop! OS user that wants to share some nice tweaking tools? #popOS #linux</p>\n",
 				"content_text": "I just installed Pop! OS 20.04 on my ThinkPad and I'm giving it a try. Any Pop! OS user that wants to share some nice tweaking tools? #popOS #linux\n",
-				"date_published": "2020-07-17T20:48:00+01:00",
+				"date_published": "2020-07-17T19:48:00+00:00",
 				"url": "https://paulopinto.page/2020/07/17/i-just-installed.html"
 			},
 			{
@@ -757,7 +773,7 @@
 				
 				"content_html": "<p>Using Yarns Microsub Server to subscribe to RSS Feeds and Monocle to read them. Nice and cool solution. #indieweb #rss #microsub #yarns #monocle</p>\n",
 				"content_text": "Using Yarns Microsub Server to subscribe to RSS Feeds and Monocle to read them. Nice and cool solution. #indieweb #rss #microsub #yarns #monocle\n",
-				"date_published": "2020-07-15T23:17:00+01:00",
+				"date_published": "2020-07-15T22:17:00+00:00",
 				"url": "https://paulopinto.page/2020/07/15/using-yarns-microsub.html"
 			},
 			{
@@ -765,7 +781,7 @@
 				
 				"content_html": "<p>And Other Stories&hellip; <a href=\"https://closetohome.paulopinto.org/2020/07/11/and-other-stories/\">closetohome.paulopinto.org/2020/07/1&hellip;</a></p>\n",
 				"content_text": "And Other Stories... [closetohome.paulopinto.org/2020/07/1...](https://closetohome.paulopinto.org/2020/07/11/and-other-stories/)\n",
-				"date_published": "2020-07-12T21:12:06+01:00",
+				"date_published": "2020-07-12T20:12:06+00:00",
 				"url": "https://paulopinto.page/2020/07/12/and-other-stories.html"
 			},
 			{
@@ -773,7 +789,7 @@
 				
 				"content_html": "<p>Scott Tilley is a Canadian Ham that amazes me by his dedication to satellite monitoring. This video is a joy to watch and I can&rsquo;t recommend it more. <a href=\"https://youtu.be/hMsE1rxeOw4\">youtu.be/hMsE1rxeO&hellip;</a></p>\n",
 				"content_text": "Scott Tilley is a Canadian Ham that amazes me by his dedication to satellite monitoring. This video is a joy to watch and I can't recommend it more. [youtu.be/hMsE1rxeO...](https://youtu.be/hMsE1rxeOw4)\n",
-				"date_published": "2020-07-12T20:30:18+01:00",
+				"date_published": "2020-07-12T19:30:18+00:00",
 				"url": "https://paulopinto.page/2020/07/12/scott-tilley-is.html"
 			},
 			{
@@ -781,7 +797,7 @@
 				
 				"content_html": "<p>I think you&rsquo;d like to know that my photography website is now live at <a href=\"https://closetohome.paulopinto.org\">closetohome.paulopinto.org</a>\n<a href=\"https://micro.blog/dominikhoecht\">@dominikhoecht</a></p>\n",
 				"content_text": "I think you'd like to know that my photography website is now live at [closetohome.paulopinto.org](https://closetohome.paulopinto.org)\r\n[@dominikhoecht](https://micro.blog/dominikhoecht) \n",
-				"date_published": "2020-07-11T22:55:28+01:00",
+				"date_published": "2020-07-11T21:55:28+00:00",
 				"url": "https://paulopinto.page/2020/07/11/i-think-youd.html"
 			},
 			{
@@ -789,7 +805,7 @@
 				
 				"content_html": "<p>Airshare - Transfer files cross platform under the same wifi &ndash;&gt; <a href=\"https://youtu.be/iJH6bkLRdSw\">here</a></p>\n",
 				"content_text": "Airshare - Transfer files cross platform under the same wifi --> [here](https://youtu.be/iJH6bkLRdSw)\n",
-				"date_published": "2020-07-06T23:01:15+01:00",
+				"date_published": "2020-07-06T22:01:15+00:00",
 				"url": "https://paulopinto.page/2020/07/06/airshare-transfer-files.html"
 			},
 			{
@@ -797,7 +813,7 @@
 				
 				"content_html": "<p>What an headache today trying to fix Locale incompatibilities between my Mac and my Raspberry Pi. Mosh was refusing to connect and I thought it was a server-side problem. In fact, I got some perl errors to fix. But my CTYPE was &ldquo;C&rdquo; in the client-side. Why not en_US.UTF8?</p>\n",
 				"content_text": "What an headache today trying to fix Locale incompatibilities between my Mac and my Raspberry Pi. Mosh was refusing to connect and I thought it was a server-side problem. In fact, I got some perl errors to fix. But my CTYPE was \"C\" in the client-side. Why not en_US.UTF8?\n",
-				"date_published": "2020-07-05T20:28:36+01:00",
+				"date_published": "2020-07-05T19:28:36+00:00",
 				"url": "https://paulopinto.page/2020/07/05/what-an-headache.html"
 			},
 			{
@@ -805,7 +821,7 @@
 				
 				"content_html": "<p>I need a suggestion for a good Mastodon client for Mac OS. I&rsquo;ve tested Mast but didn&rsquo;t like it. I&rsquo;m using Pinafore on my browser, but I would like to use a dedicted app. Anyone using Mastonaut?\n#mastodon #macos</p>\n",
 				"content_text": "I need a suggestion for a good Mastodon client for Mac OS. I've tested Mast but didn't like it. I'm using Pinafore on my browser, but I would like to use a dedicted app. Anyone using Mastonaut?\r\n#mastodon #macos\n",
-				"date_published": "2020-07-05T17:31:01+01:00",
+				"date_published": "2020-07-05T16:31:01+00:00",
 				"url": "https://paulopinto.page/2020/07/05/i-need-a.html"
 			},
 			{
@@ -813,7 +829,7 @@
 				
 				"content_html": "<p>Now, on <a href=\"https://fedigram.com/paulopinto\">Fedigram.com</a></p>\n",
 				"content_text": "Now, on [Fedigram.com](https://fedigram.com/paulopinto)\n",
-				"date_published": "2020-07-05T16:15:54+01:00",
+				"date_published": "2020-07-05T15:15:54+00:00",
 				"url": "https://paulopinto.page/2020/07/05/now-on-fedigramcom.html"
 			},
 			{
@@ -821,7 +837,7 @@
 				
 				"content_html": "<p>After posting about 1Password, I got several tweets and toots and replies. <a href=\"https://micro.blog/arh\">@arh</a> suggested <a href=\"https://bitwarden.com/\">Bitwarden</a>, an Open Source Password Manager. I&rsquo;m using it right now and you can even install it on your server. Great! Thanks Ali.</p>\n",
 				"content_text": "After posting about 1Password, I got several tweets and toots and replies. [@arh](https://micro.blog/arh) suggested [Bitwarden](https://bitwarden.com/), an Open Source Password Manager. I'm using it right now and you can even install it on your server. Great! Thanks Ali.\n",
-				"date_published": "2020-07-05T11:19:07+01:00",
+				"date_published": "2020-07-05T10:19:07+00:00",
 				"url": "https://paulopinto.page/2020/07/05/after-posting-about.html"
 			},
 			{
@@ -829,7 +845,7 @@
 				
 				"content_html": "<p>What do you think of 1Password? I’ve used it in the past but I found the workflow a little bit tricky. Can I trust Safari’s password manager? #security #passwords #1Password</p>\n",
 				"content_text": "What do you think of 1Password? I’ve used it in the past but I found the workflow a little bit tricky. Can I trust Safari’s password manager? #security #passwords #1Password \n",
-				"date_published": "2020-07-05T09:43:15+01:00",
+				"date_published": "2020-07-05T08:43:15+00:00",
 				"url": "https://paulopinto.page/2020/07/05/what-do-you.html"
 			},
 			{
@@ -837,7 +853,7 @@
 				
 				"content_html": "<p>What a cool website this is  <a href=\"https://theindieweb.com/\">The Indie Web</a></p>\n",
 				"content_text": "What a cool website this is  [The Indie Web](https://theindieweb.com/)\n",
-				"date_published": "2020-07-05T09:30:00+01:00",
+				"date_published": "2020-07-05T08:30:00+00:00",
 				"url": "https://paulopinto.page/2020/07/05/what-i-cool.html"
 			},
 			{
@@ -845,7 +861,7 @@
 				
 				"content_html": "<p>I think you&rsquo;re going to like <a href=\"https://keyoxide.org\">keyoxide</a>\n#security #pgp #encryption #foss</p>\n",
 				"content_text": "I think you're going to like [keyoxide](https://keyoxide.org)\r\n#security #pgp #encryption #foss\n",
-				"date_published": "2020-07-03T20:41:35+01:00",
+				"date_published": "2020-07-03T19:41:35+00:00",
 				"url": "https://paulopinto.page/2020/07/03/i-think-youre.html"
 			},
 			{
@@ -853,7 +869,7 @@
 				
 				"content_html": "<p>Beyond Surveillance Capitalism&hellip;\n<a href=\"https://twitter.com/aral/status/1278300905683722241\">twitter.com</a></p>\n",
 				"content_text": "Beyond Surveillance Capitalism... \n[twitter.com](https://twitter.com/aral/status/1278300905683722241)\n",
-				"date_published": "2020-07-02T07:12:11+01:00",
+				"date_published": "2020-07-02T06:12:11+00:00",
 				"url": "https://paulopinto.page/2020/07/02/twittercom.html"
 			},
 			{
@@ -861,7 +877,7 @@
 				
 				"content_html": "<p>Using RSS to replace Social Media <a href=\"https://lukesmith.xyz/2020.html#a-guide-to-using-rss-to-replace-social-media\">lukesmith.xyz</a></p>\n",
 				"content_text": "Using RSS to replace Social Media [lukesmith.xyz](https://lukesmith.xyz/2020.html#a-guide-to-using-rss-to-replace-social-media)\n",
-				"date_published": "2020-07-02T00:05:01+01:00",
+				"date_published": "2020-07-01T23:05:01+00:00",
 				"url": "https://paulopinto.page/2020/07/02/using-rss-to.html"
 			},
 			{
@@ -869,7 +885,7 @@
 				
 				"content_html": "<p>A must read —&gt; <a href=\"https://babble.maiquemadeira.com/100-days-day-007?pk_campaign=rss-feed\">100 Days, Day 007 — {babble}</a></p>\n",
 				"content_text": "A must read —> [100 Days, Day 007 — {babble}](https://babble.maiquemadeira.com/100-days-day-007?pk_campaign=rss-feed)\n",
-				"date_published": "2020-06-30T07:59:54+01:00",
+				"date_published": "2020-06-30T06:59:54+00:00",
 				"url": "https://paulopinto.page/2020/06/30/a-must-read.html"
 			},
 			{
@@ -877,7 +893,7 @@
 				
 				"content_html": "<p>I met Scott Gruber - @scottgruber - at IndieWebCamp West 2020 this weekend. He&rsquo;s a very nice person and I came to his blog to know more about his projects. I&rsquo;m amazed by how often people forget that the true spirit of the Internet is to share ideas and interests with an open-minded community &ndash;&gt; <a href=\"https://scottgruber.me/articles/ice-breaker-bruin-toastmasters\">Ice Breaker—Bruin Toastmasters</a></p>\n",
 				"content_text": "I met Scott Gruber - @scottgruber - at IndieWebCamp West 2020 this weekend. He's a very nice person and I came to his blog to know more about his projects. I'm amazed by how often people forget that the true spirit of the Internet is to share ideas and interests with an open-minded community --> [Ice Breaker—Bruin Toastmasters](https://scottgruber.me/articles/ice-breaker-bruin-toastmasters)\n",
-				"date_published": "2020-06-29T15:30:00+01:00",
+				"date_published": "2020-06-29T14:30:00+00:00",
 				"url": "https://paulopinto.page/2020/06/29/i-met-scott.html"
 			},
 			{
@@ -885,7 +901,7 @@
 				
 				"content_html": "<p>Trying to figure out how to implement webactions on my website. I think I&rsquo;m gonna blow my fuses! #webactions #indieweb</p>\n",
 				"content_text": "Trying to figure out how to implement webactions on my website. I think I'm gonna blow my fuses! #webactions #indieweb \n",
-				"date_published": "2020-06-27T00:56:08+01:00",
+				"date_published": "2020-06-26T23:56:08+00:00",
 				"url": "https://paulopinto.page/2020/06/27/trying-to-figure.html"
 			},
 			{
@@ -893,7 +909,7 @@
 				
 				"content_html": "<p>This is interesting &ndash;&gt; Tantek Çelik proposes this rough equation: [manual as long as the cost to doing so has a greater benefit than the reduced cost of doing it automatically minus the cost of setting up / maintaining](<a href=\"https://indieweb.org/manual_until_it_hurts\">https://indieweb.org/manual_until_it_hurts</a> automation).</p>\n",
 				"content_text": "This is interesting --> Tantek Çelik proposes this rough equation: [manual as long as the cost to doing so has a greater benefit than the reduced cost of doing it automatically minus the cost of setting up / maintaining](https://indieweb.org/manual_until_it_hurts automation).\n",
-				"date_published": "2020-06-26T23:54:34+01:00",
+				"date_published": "2020-06-26T22:54:34+00:00",
 				"url": "https://paulopinto.page/2020/06/26/this-is-interesting.html"
 			},
 			{
@@ -901,7 +917,7 @@
 				
 				"content_html": "<p>I invite you to join <a href=\"https://events.indieweb.org/2020/06/online-homebrew-website-club-europe-london-iYEZJr6Rp3rt\">Online Homebrew Website Clube Europe London</a> starting at 1900UTC (1100 PDT).</p>\n",
 				"content_text": "I invite you to join [Online Homebrew Website Clube Europe London](https://events.indieweb.org/2020/06/online-homebrew-website-club-europe-london-iYEZJr6Rp3rt) starting at 1900UTC (1100 PDT).\n",
-				"date_published": "2020-06-24T17:56:00+01:00",
+				"date_published": "2020-06-24T16:56:00+00:00",
 				"url": "https://paulopinto.page/2020/06/24/i-invite-you.html"
 			},
 			{
@@ -909,7 +925,7 @@
 				
 				"content_html": "<p>Pretty cool! 💻 macOS setup script for front-end development &ndash;&gt; <a href=\"https://github.com/minamarkham/formation\">Here</a></p>\n",
 				"content_text": "Pretty cool! 💻 macOS setup script for front-end development --> [Here](https://github.com/minamarkham/formation)\n",
-				"date_published": "2020-06-24T16:45:38+01:00",
+				"date_published": "2020-06-24T15:45:38+00:00",
 				"url": "https://paulopinto.page/2020/06/24/pretty-cool-macos.html"
 			},
 			{
@@ -917,7 +933,7 @@
 				
 				"content_html": "<p>This is a very good point by Ali Reza Hayati. If you&rsquo;re in Private Mode why are websites detecting it? [Read it!] (<a href=\"https://alirezahayati.com/2020/06/browsing-in-private-mode/\">https://alirezahayati.com/2020/06/browsing-in-private-mode/</a>)</p>\n",
 				"content_text": "This is a very good point by Ali Reza Hayati. If you're in Private Mode why are websites detecting it? [Read it!] (https://alirezahayati.com/2020/06/browsing-in-private-mode/)\n",
-				"date_published": "2020-06-24T16:27:14+01:00",
+				"date_published": "2020-06-24T15:27:14+00:00",
 				"url": "https://paulopinto.page/2020/06/24/this-is-a.html"
 			},
 			{
@@ -925,7 +941,7 @@
 				
 				"content_html": "<p><a href=\"https://fosstodon.org/@stchris/104399280009200562\">fosstodon.org</a></p>\n",
 				"content_text": " [fosstodon.org](https://fosstodon.org/@stchris/104399280009200562)\n",
-				"date_published": "2020-06-24T14:58:33+01:00",
+				"date_published": "2020-06-24T13:58:33+00:00",
 				"url": "https://paulopinto.page/2020/06/24/fosstodonorg.html"
 			},
 			{
@@ -933,7 +949,7 @@
 				
 				"content_html": "<p>Following <a href=\"https://micro.blog/maique\">@maique</a> &rsquo;s suggestion, I am using Fastmail + Spark combination and I&rsquo;m delighted! Thanks.</p>\n",
 				"content_text": "Following [@maique](https://micro.blog/maique) 's suggestion, I am using Fastmail + Spark combination and I'm delighted! Thanks.\n",
-				"date_published": "2020-06-24T12:47:35+01:00",
+				"date_published": "2020-06-24T11:47:35+00:00",
 				"url": "https://paulopinto.page/2020/06/24/following-maique-s.html"
 			},
 			{
@@ -941,7 +957,7 @@
 				
 				"content_html": "<p>I have a couple of Hey invites. Feel free to poke me if you want to try it! #hey</p>\n",
 				"content_text": "I have a couple of Hey invites. Feel free to poke me if you want to try it! #hey\n",
-				"date_published": "2020-06-23T21:22:51+01:00",
+				"date_published": "2020-06-23T20:22:51+00:00",
 				"url": "https://paulopinto.page/2020/06/23/i-have-a.html"
 			},
 			{
@@ -949,7 +965,7 @@
 				
 				"content_html": "<p>This is a nice feature &ndash;&gt; <a href=\"https://9to5mac.com/2020/06/22/ios-14-default-apps/\">iOS Default Apps</a> #ios #wwdc2020</p>\n",
 				"content_text": "This is a nice feature --> [iOS Default Apps](https://9to5mac.com/2020/06/22/ios-14-default-apps/) #ios #wwdc2020\n",
-				"date_published": "2020-06-22T22:11:42+01:00",
+				"date_published": "2020-06-22T21:11:42+00:00",
 				"url": "https://paulopinto.page/2020/06/22/this-is-a.html"
 			},
 			{
@@ -957,7 +973,7 @@
 				"title": "Wanna try Jitsi Meet?",
 				"content_html": "<p>I think this could be a great alternative to ZOOM. It&rsquo;s FOSS!!!! #foss #jitsi #videoconference</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I think this could be a great alternative to ZOOM. It's FOSS!!!! #foss #jitsi #videoconference\n\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Looking for an alternative to Zoom? Try Jitsi Meet. It is <a href=\"https://twitter.com/hashtag/opensource?src=hash&ref_src=twsrc%5Etfw\">#opensource</a> solution and you can use it for free on their server or host on your own server. What else can you ask for? 😀<a href=\"https://t.co/U3pcjzPYX5\">https://t.co/U3pcjzPYX5</a></p>— It's FOSS - Linux Blog (@itsfoss2) <a href=\"https://twitter.com/itsfoss2/status/1275016928965341186?ref_src=twsrc%5Etfw\">June 22, 2020</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-				"date_published": "2020-06-22T12:00:00+01:00",
+				"date_published": "2020-06-22T11:00:00+00:00",
 				"url": "https://paulopinto.page/2020/06/22/wanna-try-jitsi.html"
 			},
 			{
@@ -965,7 +981,7 @@
 				
 				"content_html": "<p>With pandemics, most beautiful birds and lads are going to be those with the most beautiful eyes, aesthetically speaking! #covid19 #aesthetic</p>\n",
 				"content_text": "With pandemics, most beautiful birds and lads are going to be those with the most beautiful eyes, aesthetically speaking! #covid19 #aesthetic \n",
-				"date_published": "2020-06-20T09:49:31+01:00",
+				"date_published": "2020-06-20T08:49:31+00:00",
 				"url": "https://paulopinto.page/2020/06/20/with-pandemics-most.html"
 			},
 			{
@@ -973,7 +989,7 @@
 				
 				"content_html": "<p>Hey guys! Let&rsquo;s boost <a href=\"https://micro.blog/joejenett\">@joejenett</a> <a href=\"https://hub.iwebthings.com/ring/\">i.webthing&rsquo;s project</a></p>\n",
 				"content_text": "Hey guys! Let's boost [@joejenett](https://micro.blog/joejenett) [i.webthing's project](https://hub.iwebthings.com/ring/)\n",
-				"date_published": "2020-06-19T23:30:09+01:00",
+				"date_published": "2020-06-19T22:30:09+00:00",
 				"url": "https://paulopinto.page/2020/06/19/hey-guys-lets.html"
 			},
 			{
@@ -981,31 +997,31 @@
 				
 				"content_html": "<p>Do you (k)now <a href=\"https://nownownow.com\">nownownow</a>? Create a /now page and belong to this interesting project by <a href=\"https://micro.blog/sivers\">@sivers</a> #nownownow</p>\n",
 				"content_text": "Do you (k)now [nownownow](https://nownownow.com)? Create a /now page and belong to this interesting project by [@sivers](https://micro.blog/sivers) #nownownow\n",
-				"date_published": "2020-06-19T23:18:00+01:00",
+				"date_published": "2020-06-19T22:18:00+00:00",
 				"url": "https://paulopinto.page/2020/06/19/do-you-know.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/19/charms-of-the.html",
 				
 				"content_html": "<p>Charms of the Almost Night Sky #iphone</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Charms of the Almost Night Sky #iphone\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/5fec8ba01e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-19T22:55:38+01:00",
+				"content_text": "Charms of the Almost Night Sky #iphone\n\n<img src=\"uploads/2020/5fec8ba01e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-19T21:55:38+00:00",
 				"url": "https://paulopinto.page/2020/06/19/charms-of-the.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/19/223132.html",
 				
 				"content_html": "<p>Oblivion #oblivion</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oblivion #oblivion\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/e74c4cb6d9.jpg\" width=\"600\" height=\"400\" alt=\"oblivion\" />\n",
-				"date_published": "2020-06-19T22:31:00+01:00",
+				"content_text": "Oblivion #oblivion\n\n<img src=\"uploads/2020/e74c4cb6d9.jpg\" width=\"600\" height=\"400\" alt=\"oblivion\" />\n",
+				"date_published": "2020-06-19T21:31:00+00:00",
 				"url": "https://paulopinto.page/2020/06/19/223132.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/19/oblivion-oblivion.html",
 				
 				"content_html": "<p>Oblivion #oblivion</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oblivion #oblivion\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/e479c7562f.jpg\" width=\"600\" height=\"399\" alt=\"oblivion\" />\n",
-				"date_published": "2020-06-19T22:08:00+01:00",
+				"content_text": "Oblivion #oblivion\n\n<img src=\"uploads/2020/e479c7562f.jpg\" width=\"600\" height=\"399\" alt=\"oblivion\" />\n",
+				"date_published": "2020-06-19T21:08:00+00:00",
 				"url": "https://paulopinto.page/2020/06/19/oblivion-oblivion.html"
 			},
 			{
@@ -1013,7 +1029,7 @@
 				
 				"content_html": "<p>Save Internet Freedom: Support the Open Technology Fund &ndash;&gt; <a href=\"https://saveinternetfreedom.tech\">https://saveinternetfreedom.tech</a> #internetfreedom #savetheinternet #freedom</p>\n",
 				"content_text": "Save Internet Freedom: Support the Open Technology Fund --> [https://saveinternetfreedom.tech](https://saveinternetfreedom.tech) #internetfreedom #savetheinternet #freedom\n",
-				"date_published": "2020-06-19T21:37:46+01:00",
+				"date_published": "2020-06-19T20:37:46+00:00",
 				"url": "https://paulopinto.page/2020/06/19/save-internet-freedom.html"
 			},
 			{
@@ -1021,7 +1037,7 @@
 				
 				"content_html": "<p><a href=\"https://hey.com/apple/iap/\">Still Hey &amp; Apple</a> #hey #apple</p>\n",
 				"content_text": "[Still Hey & Apple](https://hey.com/apple/iap/) #hey #apple\n",
-				"date_published": "2020-06-19T21:07:03+01:00",
+				"date_published": "2020-06-19T20:07:03+00:00",
 				"url": "https://paulopinto.page/2020/06/19/still-hey-apple.html"
 			},
 			{
@@ -1029,15 +1045,15 @@
 				
 				"content_html": "<p>I created a new category named <a href=\"https://paulopinto.page/categories/hamradio/\">Hamradio</a> where you can find all my amateur radio stuff. Enjoy!</p>\n",
 				"content_text": "I created a new category named [Hamradio](https://paulopinto.page/categories/hamradio/) where you can find all my amateur radio stuff. Enjoy!\n",
-				"date_published": "2020-06-19T20:29:55+01:00",
+				"date_published": "2020-06-19T19:29:55+00:00",
 				"url": "https://paulopinto.page/2020/06/19/i-created-a.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/19/imaginary-day-colorphotogrpahy.html",
 				
 				"content_html": "<p>Imaginary Day #colorphotography #photography #travel #fujix100s #fujifilm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Imaginary Day #colorphotography #photography #travel #fujix100s #fujifilm\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/938958f618.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2020-06-19T19:55:00+01:00",
+				"content_text": "Imaginary Day #colorphotography #photography #travel #fujix100s #fujifilm\n\n<img src=\"uploads/2020/938958f618.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2020-06-19T18:55:00+00:00",
 				"url": "https://paulopinto.page/2020/06/19/imaginary-day-colorphotogrpahy.html"
 			},
 			{
@@ -1045,7 +1061,7 @@
 				
 				"content_html": "<p>I have no doubts! <a href=\"https://freron.com\">MailMate</a> is the right email client for me!</p>\n",
 				"content_text": "I have no doubts! [MailMate](https://freron.com) is the right email client for me! \n",
-				"date_published": "2020-06-19T01:17:13+01:00",
+				"date_published": "2020-06-19T00:17:13+00:00",
 				"url": "https://paulopinto.page/2020/06/19/i-have-no.html"
 			},
 			{
@@ -1053,7 +1069,7 @@
 				
 				"content_html": "<p>OK. Now my Mastodon account (@paulopinto@fosstodon.org) is connected to <a href=\"micro.blog\">micro.blog</a></p>\n",
 				"content_text": "OK. Now my Mastodon account (@paulopinto@fosstodon.org) is connected to [micro.blog](micro.blog) \n",
-				"date_published": "2020-06-19T00:15:00+01:00",
+				"date_published": "2020-06-18T23:15:00+00:00",
 				"url": "https://paulopinto.page/2020/06/19/ok-now-my.html"
 			},
 			{
@@ -1061,15 +1077,15 @@
 				
 				"content_html": "<p>I find <a href=\"https://www.vultr.com/?ref=8612064-6G\">Vultr</a> a very nice VPS solution. Been using it for sometime and I&rsquo;m thinking about self hosting my email again.</p>\n",
 				"content_text": "I find [Vultr](https://www.vultr.com/?ref=8612064-6G) a very nice VPS solution. Been using it for sometime and I'm thinking about self hosting my email again. \n",
-				"date_published": "2020-06-18T23:59:15+01:00",
+				"date_published": "2020-06-18T22:59:15+00:00",
 				"url": "https://paulopinto.page/2020/06/18/i-find-vultr.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/18/oblivion-oblivion.html",
 				
 				"content_html": "<p>Oblivion #oblivion</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oblivion #oblivion\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/f2e217928a.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
-				"date_published": "2020-06-18T23:41:00+01:00",
+				"content_text": "Oblivion #oblivion\n\n<img src=\"uploads/2020/f2e217928a.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"date_published": "2020-06-18T22:41:00+00:00",
 				"url": "https://paulopinto.page/2020/06/18/oblivion-oblivion.html"
 			},
 			{
@@ -1077,7 +1093,7 @@
 				
 				"content_html": "<p>No need to say that Max Böck&rsquo;s blog posts are always great to read &ndash;&gt; <a href=\"https://mxb.dev/blog/the-return-of-the-90s-web/\">The return of the 90s web</a></p>\n",
 				"content_text": "No need to say that Max Böck's blog posts are always great to read --> [The return of the 90s web](https://mxb.dev/blog/the-return-of-the-90s-web/)\n",
-				"date_published": "2020-06-18T18:31:59+01:00",
+				"date_published": "2020-06-18T17:31:59+00:00",
 				"url": "https://paulopinto.page/2020/06/18/no-need-to.html"
 			},
 			{
@@ -1085,7 +1101,7 @@
 				
 				"content_html": "<p><a href=\"https://paulopinto.carrd.co\">My card</a> @ carrd.co</p>\n",
 				"content_text": "[My card](https://paulopinto.carrd.co) @ carrd.co\n",
-				"date_published": "2020-06-18T18:27:46+01:00",
+				"date_published": "2020-06-18T17:27:46+00:00",
 				"url": "https://paulopinto.page/2020/06/18/my-card-carrdco.html"
 			},
 			{
@@ -1093,7 +1109,7 @@
 				
 				"content_html": "<p>Something to consider&hellip;\n<a href=\"https://yarmo.eu/blog/no-io-yes-xyz\">.xyz instead of .io</a></p>\n",
 				"content_text": "Something to consider...\r\n[.xyz instead of .io]( https://yarmo.eu/blog/no-io-yes-xyz)\n",
-				"date_published": "2020-06-18T16:41:01+01:00",
+				"date_published": "2020-06-18T15:41:01+00:00",
 				"url": "https://paulopinto.page/2020/06/18/something-to-considerxyz.html"
 			},
 			{
@@ -1101,23 +1117,23 @@
 				
 				"content_html": "<p>144 MHz is fun. Tropo openings and Sporadic-E propagation allows nice long-range contacts &ndash;&gt; Inspired by <a href=\"https://logr.cogley.info/2020/03/29/1585464522/\">this blog post</a></p>\n",
 				"content_text": "144 MHz is fun. Tropo openings and Sporadic-E propagation allows nice long-range contacts --> Inspired by [this blog post](https://logr.cogley.info/2020/03/29/1585464522/)\n",
-				"date_published": "2020-06-18T00:56:00+01:00",
+				"date_published": "2020-06-17T23:56:00+00:00",
 				"url": "https://paulopinto.page/2020/06/18/mhz-is-fun.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/18/trying-to-prove.html",
 				"title": "Trying to prove myself that I could be a musician",
 				"content_html": "<p>Recorded with Garageband and a Roland Midi Keyboard</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Recorded with Garageband and a Roland Midi Keyboard\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/22654/2020/7d12dd230b.mp3\" preload=\"metadata\" />\n",
-				"date_published": "2020-06-18T00:33:22+01:00",
+				"content_text": "Recorded with Garageband and a Roland Midi Keyboard\n\n<audio controls=\"controls\" src=\"https://paulopinto.page/uploads/2020/7d12dd230b.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2020-06-17T23:33:22+00:00",
 				"url": "https://paulopinto.page/2020/06/18/trying-to-prove.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/18/colorless-impressions-bw.html",
 				
 				"content_html": "<p>Colorless Impressions #bw #photography #fujifilm #fujix100s</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Colorless Impressions #bw #photography #fujifilm #fujix100s\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/a261333212.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-18T00:16:00+01:00",
+				"content_text": "Colorless Impressions #bw #photography #fujifilm #fujix100s\n\n<img src=\"uploads/2020/a261333212.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-17T23:16:00+00:00",
 				"url": "https://paulopinto.page/2020/06/18/colorless-impressions-bw.html"
 			},
 			{
@@ -1125,7 +1141,7 @@
 				
 				"content_html": "<p>I think this wonderful well-designed site worths a visit <a href=\"https://ohhelloana.blog\">ohelloana.blog</a></p>\n",
 				"content_text": "I think this wonderful well-designed site worths a visit [ohelloana.blog](https://ohhelloana.blog)\n",
-				"date_published": "2020-06-17T21:41:46+01:00",
+				"date_published": "2020-06-17T20:41:46+00:00",
 				"url": "https://paulopinto.page/2020/06/17/i-think-this.html"
 			},
 			{
@@ -1133,7 +1149,7 @@
 				
 				"content_html": "<p>Show up 1900-2000 UTC &ndash;&gt; <a href=\"https://events.indieweb.org/2020/06/online-homebrew-website-club-europe-london-DyrahM2npvi7\">ONLINE: Homebrew Website Club Europe/London</a></p>\n<p>Another great meeting!</p>\n<p><a href=\"https://events.indieweb.org/storage/responses/101/710x-tKxSrGuC3OneLOf2OjVCSZcepvNJ19.png\" \n   class=\"glightbox\"\n   data-gallery=\"541d887402ce1a8a248bb8a2d0fd2296\"\n   \n>\n  <img src =\"https://events.indieweb.org/storage/responses/101/710x-tKxSrGuC3OneLOf2OjVCSZcepvNJ19.png\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"ONLINE: Homebrew Website Club Europe/London\" \n        \n  />\n</a>\n\n</p>\n",
 				"content_text": "Show up 1900-2000 UTC --> [ONLINE: Homebrew Website Club Europe/London](https://events.indieweb.org/2020/06/online-homebrew-website-club-europe-london-DyrahM2npvi7)\n\nAnother great meeting!\n\n![ONLINE: Homebrew Website Club Europe/London](https://events.indieweb.org/storage/responses/101/710x-tKxSrGuC3OneLOf2OjVCSZcepvNJ19.png)\n",
-				"date_published": "2020-06-17T18:30:00+01:00",
+				"date_published": "2020-06-17T17:30:00+00:00",
 				"url": "https://paulopinto.page/2020/06/17/show-up-utc.html"
 			},
 			{
@@ -1141,7 +1157,7 @@
 				
 				"content_html": "<p>What a wonderful reflection on the difficult times we are going through and what we must not neglect! You must read <a href=\"https://mxb.dev/blog/human-code/\">https://mxb.dev/blog/human-code/</a></p>\n",
 				"content_text": "What a wonderful reflection on the difficult times we are going through and what we must not neglect! You must read [https://mxb.dev/blog/human-code/](https://mxb.dev/blog/human-code/)\n",
-				"date_published": "2020-06-16T23:07:32+01:00",
+				"date_published": "2020-06-16T22:07:32+00:00",
 				"url": "https://paulopinto.page/2020/06/16/what-a-wonderful.html"
 			},
 			{
@@ -1149,7 +1165,7 @@
 				"title": "I agree with Jason!",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"//Jason Burk\" data-avatar=\"https://micro.blog/Burk/avatar.jpg\" cite=\"https://micro.burk.io/2020/06/16/after-using-my.html\"><p>After using my own domain for my email for <strong>SO</strong> long, going back to something like “username@hey.com” would feel like a huge step backwards. (<em>especially given that you are almost certainly not going to get the username you want.</em>)</p>\n\n<p>Stick with one email. That you own.</p>\n<footer>//Jason Burk<cite><a href=\"https://micro.burk.io/2020/06/16/after-using-my.html\">https://micro.burk.io/2020/06/16/after-using-my.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2020-06-16T22:39:00+01:00",
+				"date_published": "2020-06-16T21:39:00+00:00",
 				"url": "https://paulopinto.page/2020/06/16/after-using-my.html"
 			},
 			{
@@ -1157,7 +1173,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Apple Threatens to Remove Email App ‘Hey’ From App Store Over Lack of In-App Subscription Option <a href=\"https://t.co/OuEjLe61sE\">https://t.co/OuEjLe61sE</a> by <a href=\"https://twitter.com/julipuli?ref_src=twsrc%5Etfw\">@julipuli</a> <a href=\"https://t.co/c2dBJn8EeG\">pic.twitter.com/c2dBJn8EeG</a></p>&mdash; MacRumors.com (@MacRumors) <a href=\"https://twitter.com/MacRumors/status/1272994738598080512?ref_src=twsrc%5Etfw\">June 16, 2020</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-				"date_published": "2020-06-16T21:56:07+01:00",
+				"date_published": "2020-06-16T20:56:07+00:00",
 				"url": "https://paulopinto.page/2020/06/16/apple-threatens-to.html"
 			},
 			{
@@ -1165,7 +1181,7 @@
 				"title": "Avoid Facebook",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Facebook shouldn&#39;t give politicians more power than ordinary users. Creating exemptions from the rules for people who are already powerful is simply a practical concession, one that will continue to harm the least powerful people in society. <a href=\"https://t.co/exasYFu94y\">https://t.co/exasYFu94y</a></p>&mdash; EFF (@EFF) <a href=\"https://twitter.com/EFF/status/1272639058133442562?ref_src=twsrc%5Etfw\">June 15, 2020</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-				"date_published": "2020-06-15T22:23:29+01:00",
+				"date_published": "2020-06-15T21:23:29+00:00",
 				"url": "https://paulopinto.page/2020/06/15/avoid-facebook.html"
 			},
 			{
@@ -1173,7 +1189,7 @@
 				
 				"content_html": "<p>I read [this blog post] (<a href=\"https://burk.io/2020/challenge-build-something-in-your-garage\">https://burk.io/2020/challenge-build-something-in-your-garage</a>) and I realized I have no craftsmanship.</p>\n",
 				"content_text": " I read [this blog post] (https://burk.io/2020/challenge-build-something-in-your-garage) and I realized I have no craftsmanship.\n",
-				"date_published": "2020-06-15T19:17:00+01:00",
+				"date_published": "2020-06-15T18:17:00+00:00",
 				"url": "https://paulopinto.page/2020/06/15/i-read-this.html"
 			},
 			{
@@ -1181,7 +1197,7 @@
 				
 				"content_html": "<p>Some reasons why you should consider switching to Linux &ndash;&gt; <a href=\"https://alirezahayati.com/2020/06/how-to-move-to-gnulinux/\">How to move to GNU+Linux</a> by Ali Reza Hayati.</p>\n",
 				"content_text": "Some reasons why you should consider switching to Linux --> [How to move to GNU+Linux](https://alirezahayati.com/2020/06/how-to-move-to-gnulinux/) by Ali Reza Hayati.\n",
-				"date_published": "2020-06-15T13:16:55+01:00",
+				"date_published": "2020-06-15T12:16:55+00:00",
 				"url": "https://paulopinto.page/2020/06/15/some-reasons-why.html"
 			},
 			{
@@ -1189,7 +1205,7 @@
 				
 				"content_html": "<p>I pressed Alt + Ctrl + Delete and restarted. Now I don&rsquo;t know where I left my DNA backup copies. But I know I have a memory. 1K tells me my retinal implant. Hey, I wanted to become a Linux machine but now I&rsquo;m a  Sinclair ZX80! #technology #ciberculture</p>\n",
 				"content_text": "I pressed Alt + Ctrl + Delete and restarted. Now I don't know where I left my DNA backup copies. But I know I have a memory. 1K tells me my retinal implant. Hey, I wanted to become a Linux machine but now I'm a  Sinclair ZX80! #technology #ciberculture\n",
-				"date_published": "2020-06-15T13:12:51+01:00",
+				"date_published": "2020-06-15T12:12:51+00:00",
 				"url": "https://paulopinto.page/2020/06/15/i-pressed-alt.html"
 			},
 			{
@@ -1197,7 +1213,7 @@
 				"title": "there are too many things that you can't do twice",
 				"content_html": "<p>If I only had the opportunity to learn from my mistakes, I would learn from them, but there are too many things that you can&rsquo;t do twice: in reality, the most important things are things that you do not do twice, and therefore you can&rsquo;t do them better next time. You do something badly, and you realize how well you could have done it, and you are willing to do it well. But the experience that follows is very different, and you make mistakes again. Being prepared for that same experience does not prepare you for the next one.</p>\n",
 				"content_text": "If I only had the opportunity to learn from my mistakes, I would learn from them, but there are too many things that you can't do twice: in reality, the most important things are things that you do not do twice, and therefore you can't do them better next time. You do something badly, and you realize how well you could have done it, and you are willing to do it well. But the experience that follows is very different, and you make mistakes again. Being prepared for that same experience does not prepare you for the next one.\n",
-				"date_published": "2020-06-13T22:40:11+01:00",
+				"date_published": "2020-06-13T21:40:11+00:00",
 				"url": "https://paulopinto.page/2020/06/13/there-are-too.html"
 			},
 			{
@@ -1205,7 +1221,7 @@
 				
 				"content_html": "<p>It&rsquo;s worth reading <a href=\"https://alirezahayati.com/2020/06/about-indieweb/\">Ali Reza Hayati&rsquo;s post about the Indieweb</a>.</p>\n",
 				"content_text": "It's worth reading [Ali Reza Hayati's post about the Indieweb](https://alirezahayati.com/2020/06/about-indieweb/).\n",
-				"date_published": "2020-06-13T16:02:51+01:00",
+				"date_published": "2020-06-13T15:02:51+00:00",
 				"url": "https://paulopinto.page/2020/06/13/its-worth-reading.html"
 			},
 			{
@@ -1213,7 +1229,7 @@
 				
 				"content_html": "<p>Going through a long process of proofreading in order to get documents ready for submission. Three hours of essential work to achieve our goals. #work #digital #economics #upskilling #reskilling</p>\n",
 				"content_text": "Going through a long process of proofreading in order to get documents ready for submission. Three hours of essential work to achieve our goals. #work #digital #economics #upskilling #reskilling\n",
-				"date_published": "2020-06-13T13:36:02+01:00",
+				"date_published": "2020-06-13T12:36:02+00:00",
 				"url": "https://paulopinto.page/2020/06/13/going-through-a.html"
 			},
 			{
@@ -1221,7 +1237,7 @@
 				
 				"content_html": "<p>While I&rsquo;m drinking a huge cup of coffee I&rsquo;m getting ready for another working day. Deadline is Monday and we have plenty to do.</p>\n",
 				"content_text": "While I'm drinking a huge cup of coffee I'm getting ready for another working day. Deadline is Monday and we have plenty to do.\n",
-				"date_published": "2020-06-13T09:42:11+01:00",
+				"date_published": "2020-06-13T08:42:11+00:00",
 				"url": "https://paulopinto.page/2020/06/13/while-im-drinking.html"
 			},
 			{
@@ -1229,7 +1245,7 @@
 				
 				"content_html": "<p>Everything that inhabits the darkness is always one step ahead of the light!</p>\n",
 				"content_text": "Everything that inhabits the darkness is always one step ahead of the light!\n",
-				"date_published": "2020-06-12T20:28:59+01:00",
+				"date_published": "2020-06-12T19:28:59+00:00",
 				"url": "https://paulopinto.page/2020/06/12/everything-that-inhabits.html"
 			},
 			{
@@ -1237,7 +1253,7 @@
 				
 				"content_html": "<p>A nice <a href=\"https://alirezahayati.com/2020/06/open-source-is-not-software-libre/\">blog article</a> about the difference between Open Source and Software Libre by Ali Reza Hayati. #opensource #softwarelibre</p>\n",
 				"content_text": "A nice [blog article](https://alirezahayati.com/2020/06/open-source-is-not-software-libre/) about the difference between Open Source and Software Libre by Ali Reza Hayati. #opensource #softwarelibre\n",
-				"date_published": "2020-06-12T17:41:27+01:00",
+				"date_published": "2020-06-12T16:41:27+00:00",
 				"url": "https://paulopinto.page/2020/06/12/a-nice-blog.html"
 			},
 			{
@@ -1245,7 +1261,7 @@
 				
 				"content_html": "<p>Take a look at this <a href=\"https://om.co/2020/06/02/leave-facebook\">blog post</a> by Om Malik.</p>\n",
 				"content_text": "Take a look at this [blog post](https://om.co/2020/06/02/leave-facebook) by Om Malik.\n",
-				"date_published": "2020-06-12T17:36:53+01:00",
+				"date_published": "2020-06-12T16:36:53+00:00",
 				"url": "https://paulopinto.page/2020/06/12/take-a-look.html"
 			},
 			{
@@ -1253,7 +1269,7 @@
 				
 				"content_html": "<p>Another great meeting today &ndash;&gt; <a href=\"https://events.indieweb.org/2020/06/online-homebrew-website-club-europe-london-p5Woh6HVq1Pm\">events.indieweb.org/2020/06/o&hellip;</a></p>\n",
 				"content_text": "Another great meeting today --> [events.indieweb.org/2020/06/o...](https://events.indieweb.org/2020/06/online-homebrew-website-club-europe-london-p5Woh6HVq1Pm)\n",
-				"date_published": "2020-06-10T20:39:59+01:00",
+				"date_published": "2020-06-10T19:39:59+00:00",
 				"url": "https://paulopinto.page/2020/06/10/another-great-meeting.html"
 			},
 			{
@@ -1261,7 +1277,7 @@
 				
 				"content_html": "<p>Catherine Hyland&rsquo;s work reveals a dreamlike but above all raw reality <a href=\"http://www.catherinehyland.co.uk\">www.catherinehyland.co.uk</a> #photography</p>\n",
 				"content_text": "Catherine Hyland's work reveals a dreamlike but above all raw reality [www.catherinehyland.co.uk](http://www.catherinehyland.co.uk) #photography\n",
-				"date_published": "2020-06-08T23:54:21+01:00",
+				"date_published": "2020-06-08T22:54:21+00:00",
 				"url": "https://paulopinto.page/2020/06/08/catherine-hylands-work.html"
 			},
 			{
@@ -1269,23 +1285,23 @@
 				
 				"content_html": "<p>I miss Pino Daniele so much! #pinodaniele #italia</p>\n",
 				"content_text": "I miss Pino Daniele so much! #pinodaniele #italia\n",
-				"date_published": "2020-06-07T21:04:51+01:00",
+				"date_published": "2020-06-07T20:04:51+00:00",
 				"url": "https://paulopinto.page/2020/06/07/i-miss-pino.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/07/and-other-stories.html",
 				
 				"content_html": "<p>And Other Stories\n#lanscape #bw #blackandwhite #photography #fujifilm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And Other Stories\n#lanscape #bw #blackandwhite #photography #fujifilm \n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/0953a017a8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-07T20:48:00+01:00",
+				"content_text": "And Other Stories\n#lanscape #bw #blackandwhite #photography #fujifilm \n\n<img src=\"uploads/2020/0953a017a8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-07T19:48:00+00:00",
 				"url": "https://paulopinto.page/2020/06/07/and-other-stories.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/07/reading-william-t.html",
 				
 				"content_html": "<p>📚 Reading William T. Vollmann&rsquo;s Europe Central\n#literature #williamtvollmann #europecentral</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📚 Reading William T. Vollmann's Europe Central\r\n#literature #williamtvollmann #europecentral\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/6e25c9b63d.jpg\" width=\"390\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-07T19:23:08+01:00",
+				"content_text": "📚 Reading William T. Vollmann's Europe Central\r\n#literature #williamtvollmann #europecentral\n\n<img src=\"uploads/2020/6e25c9b63d.jpg\" width=\"390\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-07T18:23:08+00:00",
 				"url": "https://paulopinto.page/2020/06/07/reading-william-t.html"
 			},
 			{
@@ -1293,15 +1309,15 @@
 				
 				"content_html": "<p>Glad to have one of my photo at <a href=\"https://linkscatter.com\">linkscatter.com</a> Thanks <a href=\"https://micro.blog/joejenett\">@joejenett</a>\n#photography</p>\n",
 				"content_text": "Glad to have one of my photo at [linkscatter.com](https://linkscatter.com) Thanks [@joejenett](https://micro.blog/joejenett) \n#photography\n",
-				"date_published": "2020-06-07T18:27:47+01:00",
+				"date_published": "2020-06-07T17:27:47+00:00",
 				"url": "https://paulopinto.page/2020/06/07/glad-to-have.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/07/colorless-impressions-bw.html",
 				
 				"content_html": "<p>Colorless Impressions\n#bw #bwphotography #photography #fujifilm #fujixe1</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Colorless Impressions\n#bw #bwphotography #photography #fujifilm #fujixe1\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/6bdae9f7bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-07T16:22:00+01:00",
+				"content_text": "Colorless Impressions\n#bw #bwphotography #photography #fujifilm #fujixe1\n\n<img src=\"uploads/2020/6bdae9f7bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-07T15:22:00+00:00",
 				"url": "https://paulopinto.page/2020/06/07/colorless-impressions-bw.html"
 			},
 			{
@@ -1309,31 +1325,31 @@
 				
 				"content_html": "<p>Thinking about a better way  to get more micro.blog interaction</p>\n",
 				"content_text": "Thinking about a better way  to get more micro.blog interaction\n",
-				"date_published": "2020-06-05T20:53:00+01:00",
+				"date_published": "2020-06-05T19:53:00+00:00",
 				"url": "https://paulopinto.page/2020/06/05/thiinking-about-a.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/04/and-other-stories.html",
 				
 				"content_html": "<p>And Other Stories\n#landscape #blackandwhite #bw #photography #fujixt1 #fujifilm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And Other Stories\n#landscape #blackandwhite #bw #photography #fujixt1 #fujifilm\n\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/96f015dcb9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-04T22:33:00+01:00",
+				"content_text": "And Other Stories\n#landscape #blackandwhite #bw #photography #fujixt1 #fujifilm\n\n\n<img src=\"uploads/2020/96f015dcb9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-04T21:33:00+00:00",
 				"url": "https://paulopinto.page/2020/06/04/and-other-stories.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/03/colorless-impressions-photography.html",
 				
 				"content_html": "<p>Colorless Impressions\n#photography #blackandwhite #bw #landscape #fujifilm #fujixe1 #bwphotography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Colorless Impressions\n#photography #blackandwhite #bw #landscape #fujifilm #fujixe1 #bwphotography\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/ec8f6b26c4.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-03T23:57:00+01:00",
+				"content_text": "Colorless Impressions\n#photography #blackandwhite #bw #landscape #fujifilm #fujixe1 #bwphotography\n\n<img src=\"uploads/2020/ec8f6b26c4.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-03T22:57:00+00:00",
 				"url": "https://paulopinto.page/2020/06/03/colorless-impressions-photography.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/03/colorless-impressions-bw.html",
 				
 				"content_html": "<p>Colorless Impressions\n#bw #photography #blackandwhite #bwphotography #fujixt1 #fujifilm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Colorless Impressions\n#bw #photography #blackandwhite #bwphotography #fujixt1 #fujifilm\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/8ecae14b48.jpg\" width=\"600\" height=\"390\" alt=\"\" />\n",
-				"date_published": "2020-06-03T00:33:00+01:00",
+				"content_text": "Colorless Impressions\n#bw #photography #blackandwhite #bwphotography #fujixt1 #fujifilm\n\n<img src=\"uploads/2020/8ecae14b48.jpg\" width=\"600\" height=\"390\" alt=\"\" />\n",
+				"date_published": "2020-06-02T23:33:00+00:00",
 				"url": "https://paulopinto.page/2020/06/03/colorless-impressions-bw.html"
 			},
 			{
@@ -1341,7 +1357,7 @@
 				
 				"content_html": "<p>One of my contacts with the International Space Station\n#iss #susanhelms @Space_Station\n<a href=\"https://ct1ete.xyz/audio/iss2462001.mp3\">ct1ete.xyz/audio/iss&hellip;</a></p>\n",
 				"content_text": "One of my contacts with the International Space Station\n#iss #susanhelms @Space_Station\n[ct1ete.xyz/audio/iss...](https://ct1ete.xyz/audio/iss2462001.mp3)\n",
-				"date_published": "2020-06-02T23:34:30+01:00",
+				"date_published": "2020-06-02T22:34:30+00:00",
 				"url": "https://paulopinto.page/2020/06/02/one-of-my.html"
 			},
 			{
@@ -1349,15 +1365,15 @@
 				
 				"content_html": "<p>Thinking about George Floyd</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Thinking about George Floyd\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DQZ6tKcidf8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"date_published": "2020-06-02T23:25:07+01:00",
+				"date_published": "2020-06-02T22:25:07+00:00",
 				"url": "https://paulopinto.page/2020/06/02/thinking-about-george.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/02/reading-ocean-vuong.html",
 				
 				"content_html": "<p>📚 Reading Ocean Vuong #oceanvuong</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📚 Reading Ocean Vuong #oceanvuong\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/f27a65d0e9.jpg\" width=\"379\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-02T22:59:32+01:00",
+				"content_text": "📚 Reading Ocean Vuong #oceanvuong\r\n\n\n<img src=\"uploads/2020/f27a65d0e9.jpg\" width=\"379\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-02T21:59:32+00:00",
 				"url": "https://paulopinto.page/2020/06/02/reading-ocean-vuong.html"
 			},
 			{
@@ -1365,15 +1381,15 @@
 				
 				"content_html": "<p>Wanna change things? Start by deleting your Facebook account! More to follow. #thisisenough</p>\n",
 				"content_text": "Wanna change things? Start by deleting your Facebook account! More to follow. #thisisenough\n",
-				"date_published": "2020-06-02T22:49:45+01:00",
+				"date_published": "2020-06-02T21:49:45+00:00",
 				"url": "https://paulopinto.page/2020/06/02/wanna-change-things.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/02/and-other-stories.html",
 				
 				"content_html": "<p>And Other Stories - more at <a href=\"https://paulo-pinto.com/closetohome\">paulo-pinto.com/closetoho&hellip;</a>\n#bw #blackandwhite #bwphotography #photography #fujixt1 #fujifilm #landscape #longexposure</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And Other Stories - more at [paulo-pinto.com/closetoho...](https://paulo-pinto.com/closetohome)\n#bw #blackandwhite #bwphotography #photography #fujixt1 #fujifilm #landscape #longexposure\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/b67f18321e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-02T20:48:00+01:00",
+				"content_text": "And Other Stories - more at [paulo-pinto.com/closetoho...](https://paulo-pinto.com/closetohome)\n#bw #blackandwhite #bwphotography #photography #fujixt1 #fujifilm #landscape #longexposure\n\n<img src=\"uploads/2020/b67f18321e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-02T19:48:00+00:00",
 				"url": "https://paulopinto.page/2020/06/02/and-other-stories.html"
 			},
 			{
@@ -1381,31 +1397,31 @@
 				
 				"content_html": "<p><strong>From This Place</strong>, newest Pat Metheny album 🎵  <a href=\"https://w3bk3rn3l.xyz/pmg-from-this-place/\">w3bk3rn3l.xyz/pmg-from-&hellip;</a></p>\n",
 				"content_text": "**From This Place**, newest Pat Metheny album 🎵  [w3bk3rn3l.xyz/pmg-from-...](https://w3bk3rn3l.xyz/pmg-from-this-place/)\n",
-				"date_published": "2020-06-01T21:20:00+01:00",
+				"date_published": "2020-06-01T20:20:00+00:00",
 				"url": "https://paulopinto.page/2020/06/01/from-this-place.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/06/01/and-other-stories.html",
 				
 				"content_html": "<p>And Other Stories\n#b&amp;w #blackandwhitephotography #photography #fujix100s #fujifilm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And Other Stories\n#b&w #blackandwhitephotography #photography #fujix100s #fujifilm\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/28abb980ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-06-01T21:13:00+01:00",
+				"content_text": "And Other Stories\n#b&w #blackandwhitephotography #photography #fujix100s #fujifilm\n\n<img src=\"uploads/2020/28abb980ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-01T20:13:00+00:00",
 				"url": "https://paulopinto.page/2020/06/01/and-other-stories.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/31/just-followed-crew.html",
 				
 				"content_html": "<p>Just followed Crew Demo 2 arrival to the ISS\n#spacex #iss #nasa</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just followed Crew Demo 2 arrival to the ISS\r\n#spacex #iss #nasa\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/49a9b0a043.png\" width=\"600\" height=\"303\" alt=\"\" />\n",
-				"date_published": "2020-05-31T19:31:24+01:00",
+				"content_text": "Just followed Crew Demo 2 arrival to the ISS\r\n#spacex #iss #nasa\n\n<img src=\"uploads/2020/49a9b0a043.png\" width=\"600\" height=\"303\" alt=\"\" />\n",
+				"date_published": "2020-05-31T18:31:24+00:00",
 				"url": "https://paulopinto.page/2020/05/31/just-followed-crew.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/30/imaginary-day-fujifilm.html",
 				
 				"content_html": "<p>Imaginary Day\n#fujifilm #fujix100s #colorphotography #photography #travel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Imaginary Day\n#fujifilm #fujix100s #colorphotography #photography #travel\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/31e7faf123.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2020-05-30T22:23:00+01:00",
+				"content_text": "Imaginary Day\n#fujifilm #fujix100s #colorphotography #photography #travel\n\n<img src=\"uploads/2020/31e7faf123.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2020-05-30T21:23:00+00:00",
 				"url": "https://paulopinto.page/2020/05/30/imaginary-day-fujifilm.html"
 			},
 			{
@@ -1413,15 +1429,15 @@
 				
 				"content_html": "<p>I&rsquo;m following Dragon flight to the ISS. Pitty they aren&rsquo;t on the ham bands right now :)\n#LaunchAmerica #iss #dragon</p>\n",
 				"content_text": "I'm following Dragon flight to the ISS. Pitty they aren't on the ham bands right now :) \n#LaunchAmerica #iss #dragon\n",
-				"date_published": "2020-05-30T22:16:29+01:00",
+				"date_published": "2020-05-30T21:16:29+00:00",
 				"url": "https://paulopinto.page/2020/05/30/im-following-dragon.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/30/i-hope-this.html",
 				
 				"content_html": "<p>I hope this is a process that brings me happiness!</p>\n<p>#self #philosophy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I hope this is a process that brings me happiness!\r\n\r\n#self #philosophy \n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/5ae75a10ff.png\" width=\"600\" height=\"345\" alt=\"\" />\n",
-				"date_published": "2020-05-30T19:05:21+01:00",
+				"content_text": "I hope this is a process that brings me happiness!\r\n\r\n#self #philosophy \n\n<img src=\"uploads/2020/5ae75a10ff.png\" width=\"600\" height=\"345\" alt=\"\" />\n",
+				"date_published": "2020-05-30T18:05:21+00:00",
 				"url": "https://paulopinto.page/2020/05/30/i-hope-this.html"
 			},
 			{
@@ -1429,23 +1445,23 @@
 				
 				"content_html": "<p>I think you&rsquo;ll be happy to know that one of my webpages is greenish! <a href=\"https://www.websitecarbon.com/website/w3bk3rn3l-xyz/\">www.websitecarbon.com/website/w&hellip;</a></p>\n",
 				"content_text": "I think you'll be happy to know that one of my webpages is greenish! [www.websitecarbon.com/website/w...](https://www.websitecarbon.com/website/w3bk3rn3l-xyz/)\n",
-				"date_published": "2020-05-27T20:58:56+01:00",
+				"date_published": "2020-05-27T19:58:56+00:00",
 				"url": "https://paulopinto.page/2020/05/27/i-think-youll.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/27/checked-into-ipca.html",
 				
 				"content_html": "<p>Checked into IPCA Barcelos #ipca</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Checked into IPCA Barcelos #ipca \n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/da83dcc642.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-05-27T18:52:14+01:00",
+				"content_text": "Checked into IPCA Barcelos #ipca \n\n<img src=\"uploads/2020/da83dcc642.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-05-27T17:52:14+00:00",
 				"url": "https://paulopinto.page/2020/05/27/checked-into-ipca.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/26/if-i-could.html",
 				
 				"content_html": "<p>if i could #1</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "if i could #1\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/868064148e.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-05-26T23:39:12+01:00",
+				"content_text": "if i could #1\n\n<img src=\"uploads/2020/868064148e.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-05-26T22:39:12+00:00",
 				"url": "https://paulopinto.page/2020/05/26/if-i-could.html"
 			},
 			{
@@ -1453,23 +1469,23 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>#purplemountains #davidberman #nostalgia #manhattan</p>\n",
 				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/50227UHWULg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n#purplemountains #davidberman #nostalgia #manhattan\n",
-				"date_published": "2020-05-26T22:23:00+01:00",
+				"date_published": "2020-05-26T21:23:00+00:00",
 				"url": "https://paulopinto.page/2020/05/26/purplemountains-davidberman-nostalgia.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/26/this-morning-i.html",
 				
 				"content_html": "<p>This morning I attended &ldquo;Skills 4 pós-Covid&rdquo;, an initiative of the portuguese government to discuss the future of UNiversity education. Speaking is the Minister of Science, Technology and Higher Education. #covid19 #education #university #ocde #portugal</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning I attended \"Skills 4 pós-Covid\", an initiative of the portuguese government to discuss the future of UNiversity education. Speaking is the Minister of Science, Technology and Higher Education. #covid19 #education #university #ocde #portugal\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/c32274854a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-05-26T17:14:27+01:00",
+				"content_text": "This morning I attended \"Skills 4 pós-Covid\", an initiative of the portuguese government to discuss the future of UNiversity education. Speaking is the Minister of Science, Technology and Higher Education. #covid19 #education #university #ocde #portugal\n\n<img src=\"uploads/2020/c32274854a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-05-26T16:14:27+00:00",
 				"url": "https://paulopinto.page/2020/05/26/this-morning-i.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/25/when-we-talk.html",
 				
 				"content_html": "<p>When we talk about feeling and passion, we talk about Alessio Arena. His music is a palimpsest made of shades of Mediterranean Europe and South America. Whether in Neapolitan, Catalan or Castilian, song lyrics are pure poetry @AlessioArena 🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When we talk about feeling and passion, we talk about Alessio Arena. His music is a palimpsest made of shades of Mediterranean Europe and South America. Whether in Neapolitan, Catalan or Castilian, song lyrics are pure poetry @AlessioArena 🎵\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/57b57a02a9.jpg\" width=\"578\" height=\"578\" alt=\"\" />\n",
-				"date_published": "2020-05-25T21:57:51+01:00",
+				"content_text": "When we talk about feeling and passion, we talk about Alessio Arena. His music is a palimpsest made of shades of Mediterranean Europe and South America. Whether in Neapolitan, Catalan or Castilian, song lyrics are pure poetry @AlessioArena 🎵\r\n\n\n<img src=\"uploads/2020/57b57a02a9.jpg\" width=\"578\" height=\"578\" alt=\"\" />\n",
+				"date_published": "2020-05-25T20:57:51+00:00",
 				"url": "https://paulopinto.page/2020/05/25/when-we-talk.html"
 			},
 			{
@@ -1477,39 +1493,39 @@
 				
 				"content_html": "<p>Building a static website with Hugo + Github + Netlify. Modifying code to make it more indieweb friendly. <a href=\"https://w3bk3rn3l.xyz\">w3bk3rn3l.xyz</a> #indieweb #hugo #netlify</p>\n",
 				"content_text": "Building a static website with Hugo + Github + Netlify. Modifying code to make it more indieweb friendly. [w3bk3rn3l.xyz](https://w3bk3rn3l.xyz) #indieweb #hugo #netlify\n",
-				"date_published": "2020-05-25T21:12:33+01:00",
+				"date_published": "2020-05-25T20:12:33+00:00",
 				"url": "https://paulopinto.page/2020/05/25/building-a-static.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/25/china-short-stories.html",
 				
 				"content_html": "<p>China Short Stories #photography #china #fujifilm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "China Short Stories #photography #china #fujifilm\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/b9c5af972c.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
-				"date_published": "2020-05-25T13:57:00+01:00",
+				"content_text": "China Short Stories #photography #china #fujifilm\n\n<img src=\"uploads/2020/b9c5af972c.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"date_published": "2020-05-25T12:57:00+00:00",
 				"url": "https://paulopinto.page/2020/05/25/china-short-stories.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/25/purple-mountains-nights.html",
 				"title": "Purple Mountains - Nights That Won't Happen",
 				"content_html": "<!-- raw HTML omitted -->\n<p><em>David Berman</em></p>\n<p>🎵 Lyrics</p>\n<p>The dead know what they&rsquo;re doing when they leave this world behind<br>\nWhen the here and the hereafter momentarily align<br>\nSee the need to speed into the lead suddenly declined<br>\nThe dead know what they&rsquo;re doing when they leave this world behind</p>\n<p>And as much as we might like to seize the reel and hit rewind<br>\nOr quicken our pursuit of what we&rsquo;re guaranteed to find<br>\nWhen the dying&rsquo;s finally done and the suffering subsides<br>\nAll the suffering gets done by the ones we leave behind<br>\nAll the suffering gets done by the ones we leave behind</p>\n<p>Nights that won&rsquo;t happen<br>\nTime we won&rsquo;t spend<br>\nTime we won&rsquo;t spend<br>\nWith each other again<br>\nWith each other again</p>\n<p>Ghosts are just old houses dreaming people in the night<br>\nHave no doubt about it, hon, the dead will do alright<br>\nGo contemplate the evidence and I guarantee you&rsquo;ll find<br>\nThe dead know what they&rsquo;re doing when they leave this world behind</p>\n<p>Nights that won&rsquo;t happen<br>\nTime we won&rsquo;t spend<br>\nNights that won&rsquo;t happen<br>\nNever ever again<br>\nNights that won&rsquo;t happen<br>\nNever reaching the end<br>\nNights that won&rsquo;t happen<br>\nNever even begin<br>\nNever even begin</p>\n<p>This world is like a roadside inn and we&rsquo;re the guests inside<br>\nAnd death is a black camel that kneels down so we can ride<br>\nAnd when the dying&rsquo;s finally done and the suffering subsides<br>\nAll the suffering gets done by the ones we leave behind<br>\nAll the suffering gets done by the ones we leave behind</p>\n<p>On nights that won&rsquo;t happen<br>\nTime we won&rsquo;t spend<br>\nTime we won&rsquo;t spend<br>\nWith each other again<br>\nNights that won&rsquo;t happen<br>\nNever reaching the end<br>\nNights that won&rsquo;t happen<br>\nWe can&rsquo;t even begin<br>\nWe can&rsquo;t even begin</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/22654/2020/1bd838d94e.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n<br>\n\n*David Berman*\n\n🎵 Lyrics\n\nThe dead know what they're doing when they leave this world behind  \nWhen the here and the hereafter momentarily align  \nSee the need to speed into the lead suddenly declined  \nThe dead know what they're doing when they leave this world behind  \n\nAnd as much as we might like to seize the reel and hit rewind  \nOr quicken our pursuit of what we're guaranteed to find  \nWhen the dying's finally done and the suffering subsides  \nAll the suffering gets done by the ones we leave behind  \nAll the suffering gets done by the ones we leave behind  \n\nNights that won't happen  \nTime we won't spend  \nTime we won't spend  \nWith each other again  \nWith each other again  \n\nGhosts are just old houses dreaming people in the night  \nHave no doubt about it, hon, the dead will do alright  \nGo contemplate the evidence and I guarantee you'll find  \nThe dead know what they're doing when they leave this world behind  \n\nNights that won't happen  \nTime we won't spend  \nNights that won't happen  \nNever ever again  \nNights that won't happen  \nNever reaching the end  \nNights that won't happen  \nNever even begin  \nNever even begin  \n\nThis world is like a roadside inn and we're the guests inside  \nAnd death is a black camel that kneels down so we can ride  \nAnd when the dying's finally done and the suffering subsides  \nAll the suffering gets done by the ones we leave behind  \nAll the suffering gets done by the ones we leave behind  \n\nOn nights that won't happen  \nTime we won't spend  \nTime we won't spend  \nWith each other again  \nNights that won't happen  \nNever reaching the end  \nNights that won't happen  \nWe can't even begin  \nWe can't even begin  \n\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dPtqrXx0sJs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p>\n\n\n\n",
-				"date_published": "2020-05-25T13:05:00+01:00",
+				"content_text": "<img src=\"uploads/2020/1bd838d94e.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n<br>\n\n*David Berman*\n\n🎵 Lyrics\n\nThe dead know what they're doing when they leave this world behind  \nWhen the here and the hereafter momentarily align  \nSee the need to speed into the lead suddenly declined  \nThe dead know what they're doing when they leave this world behind  \n\nAnd as much as we might like to seize the reel and hit rewind  \nOr quicken our pursuit of what we're guaranteed to find  \nWhen the dying's finally done and the suffering subsides  \nAll the suffering gets done by the ones we leave behind  \nAll the suffering gets done by the ones we leave behind  \n\nNights that won't happen  \nTime we won't spend  \nTime we won't spend  \nWith each other again  \nWith each other again  \n\nGhosts are just old houses dreaming people in the night  \nHave no doubt about it, hon, the dead will do alright  \nGo contemplate the evidence and I guarantee you'll find  \nThe dead know what they're doing when they leave this world behind  \n\nNights that won't happen  \nTime we won't spend  \nNights that won't happen  \nNever ever again  \nNights that won't happen  \nNever reaching the end  \nNights that won't happen  \nNever even begin  \nNever even begin  \n\nThis world is like a roadside inn and we're the guests inside  \nAnd death is a black camel that kneels down so we can ride  \nAnd when the dying's finally done and the suffering subsides  \nAll the suffering gets done by the ones we leave behind  \nAll the suffering gets done by the ones we leave behind  \n\nOn nights that won't happen  \nTime we won't spend  \nTime we won't spend  \nWith each other again  \nNights that won't happen  \nNever reaching the end  \nNights that won't happen  \nWe can't even begin  \nWe can't even begin  \n\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dPtqrXx0sJs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></p>\n\n\n\n",
+				"date_published": "2020-05-25T12:05:00+00:00",
 				"url": "https://paulopinto.page/2020/05/25/purple-mountains-nights.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/25/geometry-n-photography.html",
 				
 				"content_html": "<p>Geometry N.1 #photography #blackandwhite #architecture #fuji #fujifilm #fujixe1</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Geometry N.1 #photography #blackandwhite #architecture #fuji #fujifilm #fujixe1\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/af850c2550.png\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2020-05-25T00:53:00+01:00",
+				"content_text": "Geometry N.1 #photography #blackandwhite #architecture #fuji #fujifilm #fujixe1\n\n<img src=\"uploads/2020/af850c2550.png\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2020-05-24T23:53:00+00:00",
 				"url": "https://paulopinto.page/2020/05/25/geometry-n-photography.html"
 			},
 			{
 				"id": "http://paulopinto.micro.blog/2020/05/24/reading-christopher-wylies.html",
 				
 				"content_html": "<p>Reading Christopher Wylie’s Mindf*ck #books #cambridgeanalytica</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Reading Christopher Wylie’s Mindf*ck #books #cambridgeanalytica\n\n<img src=\"https://cdn.uploads.micro.blog/22654/2020/c0ea62a9d5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-05-24T19:38:14+01:00",
+				"content_text": "Reading Christopher Wylie’s Mindf*ck #books #cambridgeanalytica\n\n<img src=\"uploads/2020/c0ea62a9d5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-05-24T18:38:14+00:00",
 				"url": "https://paulopinto.page/2020/05/24/reading-christopher-wylies.html"
 			},
 			{
@@ -1517,7 +1533,7 @@
 				"title": "iA writer test",
 				"content_html": "<!-- raw HTML omitted -->\n<p>All you have to do is to create a Micro.blog account. You do that by going to PREFERENCES &ndash;&gt; ACCOUNTS and choose Micropub as your type. After that, you can share your post to micro.blog as a draft.</p>\n",
 				"content_text": "<p>This is my first post using iA Writer ability to post to blogs using the Micropub API. <span class=\"hashtag\">#iawriter</span> <span class=\"hashtag\">#micropub</span> <span class=\"hashtag\">#microblog</span></p>\n\nAll you have to do is to create a Micro.blog account. You do that by going to PREFERENCES --> ACCOUNTS and choose Micropub as your type. After that, you can share your post to micro.blog as a draft.\n\n",
-				"date_published": "2020-05-24T16:10:00+01:00",
+				"date_published": "2020-05-24T15:10:00+00:00",
 				"url": "https://paulopinto.page/2020/05/24/161031.html"
 			},
 			{
@@ -1525,7 +1541,7 @@
 				
 				"content_html": "<p>It&rsquo;s a Congregation! 🎵 #devs</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It's a Congregation! 🎵 #devs  \n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rvFB2aLUn7A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
-				"date_published": "2020-05-22T21:02:00+01:00",
+				"date_published": "2020-05-22T20:02:00+00:00",
 				"url": "https://paulopinto.page/2020/05/22/its-a-congregation.html"
 			},
 			{
@@ -1533,7 +1549,7 @@
 				
 				"content_html": "<p><a href=\"https://blot.im\">Blot</a> is an absolutely amazing online publishing tool #blot <a href=\"https://blot.im\">blot.im</a></p>\n",
 				"content_text": "[Blot](https://blot.im) is an absolutely amazing online publishing tool #blot [blot.im](https://blot.im)\n",
-				"date_published": "2020-05-22T20:18:00+01:00",
+				"date_published": "2020-05-22T19:18:00+00:00",
 				"url": "https://paulopinto.page/2020/05/22/blot-is-an.html"
 			},
 			{
@@ -1541,7 +1557,7 @@
 				
 				"content_html": "<p>This is why I use <a href=\"https://w3bk3rn3l.xyz/why-do-i-use-keybase/\">Keybase</a> @KeybaseIO #keybase 💻</p>\n",
 				"content_text": "This is why I use [Keybase](https://w3bk3rn3l.xyz/why-do-i-use-keybase/) @KeybaseIO #keybase 💻\n",
-				"date_published": "2020-05-21T22:42:50+01:00",
+				"date_published": "2020-05-21T21:42:50+00:00",
 				"url": "https://paulopinto.page/2020/05/21/this-is-why.html"
 			},
 			{
@@ -1549,7 +1565,7 @@
 				
 				"content_html": "<p>I am always excited when I find new <a href=\"https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX?si=C8na6rq9RKmOWCHYT17nDg\">composers</a>  who make me travel in my unlimited imagination. It looks like Arica will be my next stop. 🎵 #manugarcia #chile #arica</p>\n",
 				"content_text": "I am always excited when I find new [composers](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX?si=C8na6rq9RKmOWCHYT17nDg)  who make me travel in my unlimited imagination. It looks like Arica will be my next stop. 🎵 #manugarcia #chile #arica\n",
-				"date_published": "2020-05-21T22:28:00+01:00",
+				"date_published": "2020-05-21T21:28:00+00:00",
 				"url": "https://paulopinto.page/2020/05/21/i-am-always.html"
 			},
 			{
@@ -1557,7 +1573,7 @@
 				
 				"content_html": "<p>There&rsquo;s nothing better than, after a long working day, sit back and relax a bit while listening to the Pat Metheny Group music - <a href=\"https://open.spotify.com/playlist/0TTpkFtNLC46NLHlEBv4Yi\">open.spotify.com/playlist/&hellip;</a> #patmetheny #jazz #pmg</p>\n",
 				"content_text": "There's nothing better than, after a long working day, sit back and relax a bit while listening to the Pat Metheny Group music - [open.spotify.com/playlist/...](https://open.spotify.com/playlist/0TTpkFtNLC46NLHlEBv4Yi) #patmetheny #jazz #pmg\n",
-				"date_published": "2020-05-21T21:33:00+01:00",
+				"date_published": "2020-05-21T20:33:00+00:00",
 				"url": "https://paulopinto.page/2020/05/21/theres-nothing-better.html"
 			},
 			{
@@ -1565,7 +1581,7 @@
 				
 				"content_html": "<p>Starting today, my tweets are my own #microblog #posse</p>\n",
 				"content_text": "Starting today, my tweets are my own #microblog #posse\n",
-				"date_published": "2020-05-21T10:26:44+01:00",
+				"date_published": "2020-05-21T09:26:44+00:00",
 				"url": "https://paulopinto.page/2020/05/21/starting-today-my.html"
 			}
 	]
